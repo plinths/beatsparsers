@@ -217,6 +217,6 @@ if __name__ == '__main__':
     #    print('USAGE: python main.py /path/to/export.xml',
      #         file=sys.stderr)
      #   sys.exit(1)
-    data = HealthDataExtractor("cameron_keene_health_data.xml")
+    data = HealthDataExtractor("cameron_keene_health_data.xml")#enter file to be parsed within quotes here
     data.report_stats()
     data.extract()
