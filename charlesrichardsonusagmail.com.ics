@@ -1,0 +1,4660 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:charlesrichardsonusa@gmail.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20180817T110000Z
+DTEND:20180817T113000Z
+DTSTAMP:20220221T003359Z
+UID:0ahicqaru0j4p4u2ld67oc8msj@google.com
+CREATED:20190523T022249Z
+DESCRIPTION:
+LAST-MODIFIED:20190524T020749Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Intro Essay Due on Classroom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220105T093500
+DTEND;TZID=America/New_York:20220105T102500
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220107T045959Z;BYDAY=FR,MO,WE
+DTSTAMP:20220221T003359Z
+UID:0h5bv6huur6jv1g3staq0mogkn@google.com
+CREATED:20220107T043813Z
+DESCRIPTION:TUR L007
+LAST-MODIFIED:20220107T043915Z
+LOCATION:Turlington Hall\, 330 Newell Dr\, Gainesville\, FL 32611\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CIS4301 - Info/Database Systems
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220111T150000
+DTEND;TZID=America/New_York:20220111T165500
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220422T035959Z;BYDAY=TU
+EXDATE;TZID=America/New_York:20220215T150000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:1qmlanq5mgoebfp2rjpkjq8dtc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/swp-uzcm-ome
+CREATED:20220107T044200Z
+DESCRIPTION:CSE A101\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/swp-
+ uzcm-ome\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220107T044323Z
+LOCATION:Department of Computer and Information Science and Engineering\, 4
+ 32 Newell Dr\, Gainesville\, FL 32611\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CIS4930 - Digital Health
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200902T070000
+DTEND;TZID=America/New_York:20200902T083000
+RRULE:FREQ=WEEKLY;UNTIL=20200909T035959Z;BYDAY=WE
+EXDATE;TZID=America/New_York:20200902T070000
+DTSTAMP:20220221T003359Z
+UID:29eafor58mm1m26dqdrj654sj1@google.com
+CREATED:20200831T221613Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T045117Z
+LOCATION:Alfred A. McKethan Stadium\, 2190 Stadium Rd\, Gainesville\, FL 32
+ 611\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TriGators: Ride
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200909T070000
+DTEND;TZID=America/New_York:20200909T083000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:29eafor58mm1m26dqdrj654sj1_R20200909T110000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/nxi-irdq-hop
+RECURRENCE-ID;TZID=America/New_York:20200909T070000
+CREATED:20200831T221613Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/nxi-irdq-hop\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T045117Z
+LOCATION:Alfred A. McKethan Stadium\, 2190 Stadium Rd\, Gainesville\, FL 32
+ 611\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:!TriGators: Ride - Hills and Intervals
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200930T083000
+DTEND;TZID=America/New_York:20200930T100000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:29eafor58mm1m26dqdrj654sj1_R20200909T110000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/nxi-irdq-hop
+RECURRENCE-ID;TZID=America/New_York:20200930T070000
+CREATED:20200831T221613Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/nxi-irdq-hop\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T045117Z
+LOCATION:Alfred A. McKethan Stadium\, 2190 Stadium Rd\, Gainesville\, FL 32
+ 611\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Ride - Intervals
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20201014T093000
+DTEND;TZID=America/New_York:20201014T110000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:29eafor58mm1m26dqdrj654sj1_R20200909T110000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/nxi-irdq-hop
+RECURRENCE-ID;TZID=America/New_York:20201014T070000
+CREATED:20200831T221613Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/nxi-irdq-hop\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T045117Z
+LOCATION:Alfred A. McKethan Stadium\, 2190 Stadium Rd\, Gainesville\, FL 32
+ 611\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Tempo w Trevor
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:EC7A238C-8734-4B6F-84BC-84142AF3834D
+UID:EC7A238C-8734-4B6F-84BC-84142AF3834D
+ACKNOWLEDGED:20201014T130001Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20201118T071500
+DTEND;TZID=America/New_York:20201118T091500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:29eafor58mm1m26dqdrj654sj1_R20200909T110000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/nxi-irdq-hop
+RECURRENCE-ID;TZID=America/New_York:20201118T070000
+CREATED:20200831T221613Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/nxi-irdq-hop\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T045117Z
+LOCATION:Alfred A. McKethan Stadium\, 2190 Stadium Rd\, Gainesville\, FL 32
+ 611\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TriGators: Ride - Hills and Intervals
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20201202T143000
+DTEND;TZID=America/New_York:20201202T160000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:29eafor58mm1m26dqdrj654sj1_R20200909T110000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/nxi-irdq-hop
+RECURRENCE-ID;TZID=America/New_York:20201202T070000
+CREATED:20200831T221613Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/nxi-irdq-hop\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T045117Z
+LOCATION:Alfred A. McKethan Stadium\, 2190 Stadium Rd\, Gainesville\, FL 32
+ 611\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Ride
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210120T160000
+DTEND;TZID=America/New_York:20210120T173000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:29eafor58mm1m26dqdrj654sj1_R20200909T110000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/nxi-irdq-hop
+RECURRENCE-ID;TZID=America/New_York:20210120T070000
+CREATED:20200831T221613Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/nxi-irdq-hop\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T045117Z
+LOCATION:Alfred A. McKethan Stadium\, 2190 Stadium Rd\, Gainesville\, FL 32
+ 611\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Hipp Ride
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200909T070000
+DTEND;TZID=America/New_York:20200909T083000
+RRULE:FREQ=WEEKLY;UNTIL=20210512T035959Z;BYDAY=WE
+EXDATE;TZID=America/New_York:20201028T070000
+EXDATE;TZID=America/New_York:20201104T070000
+EXDATE;TZID=America/New_York:20210106T070000
+EXDATE;TZID=America/New_York:20210113T070000
+EXDATE;TZID=America/New_York:20210127T070000
+EXDATE;TZID=America/New_York:20210203T070000
+EXDATE;TZID=America/New_York:20210310T070000
+EXDATE;TZID=America/New_York:20210407T070000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:29eafor58mm1m26dqdrj654sj1_R20200909T110000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/nxi-irdq-hop
+CREATED:20200831T221613Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/nxi-irdq-hop\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T045117Z
+LOCATION:Alfred A. McKethan Stadium\, 2190 Stadium Rd\, Gainesville\, FL 32
+ 611\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TriGators: Ride - Hills and Intervals
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:2F99E7E8-0309-414D-AD8A-0565CCBE75E5
+UID:2F99E7E8-0309-414D-AD8A-0565CCBE75E5
+ACKNOWLEDGED:20210428T112126Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210512T070000
+DTEND;TZID=America/New_York:20210512T083000
+RRULE:FREQ=WEEKLY;UNTIL=20211201T045959Z;BYDAY=WE
+EXDATE;TZID=America/New_York:20210728T070000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:29eafor58mm1m26dqdrj654sj1_R20210512T110000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/nxi-irdq-hop
+CREATED:20200831T221613Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/nxi-irdq-hop\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T045117Z
+LOCATION:Alfred A. McKethan Stadium\, 2190 Stadium Rd\, Gainesville\, FL 32
+ 611\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TriGators: Ride - Hills and Intervals
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;ACKNOWLEDGED=20210616T122050Z:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:2F99E7E8-0309-414D-AD8A-0565CCBE75E5
+UID:2F99E7E8-0309-414D-AD8A-0565CCBE75E5
+ACKNOWLEDGED:20210818T103001Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20211201T070000
+DTEND;TZID=America/New_York:20211201T083000
+RRULE:FREQ=WEEKLY;UNTIL=20220112T045959Z;BYDAY=WE
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:29eafor58mm1m26dqdrj654sj1_R20211201T120000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/nxi-irdq-hop
+CREATED:20200831T221613Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/nxi-irdq-hop\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T045117Z
+LOCATION:Alfred A. McKethan Stadium\, 2190 Stadium Rd\, Gainesville\, FL 32
+ 611\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TriGators: Ride - Hills and Intervals
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;ACKNOWLEDGED=20210616T122050Z:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:2F99E7E8-0309-414D-AD8A-0565CCBE75E5
+UID:2F99E7E8-0309-414D-AD8A-0565CCBE75E5
+ACKNOWLEDGED:20210818T103001Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20211010T183000
+DTEND;TZID=America/New_York:20211010T190000
+RRULE:FREQ=WEEKLY;UNTIL=20220109T045959Z;BYDAY=SU
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:ffrti5hdcfjbdeeeo0a8ms0bed@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=br
+ odyg2203@gmail.com;X-NUM-GUESTS=0:mailto:brodyg2203@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/hvr-byvj-cga
+CREATED:20200909T202933Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/hvr-byvj-cga\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T045539Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Building Brody
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:7684FC3E-A2D3-4E9F-B03B-A07BC1FF8C07
+UID:7684FC3E-A2D3-4E9F-B03B-A07BC1FF8C07
+ACKNOWLEDGED:20210606T231604Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220426T163000Z
+DTEND:20220426T183000Z
+DTSTAMP:20220221T003359Z
+UID:36u88k5h6sr1gl1e5f2u1sacei@google.com
+CREATED:20220107T045700Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T045700Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CIS4301 Final
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220429T113000Z
+DTEND:20220429T133000Z
+DTSTAMP:20220221T003359Z
+UID:52g69p6cdes1u3f3jlrrdrm949@google.com
+CREATED:20220107T045851Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T045851Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CIS4501 Final
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220428T163000Z
+DTEND:20220428T183000Z
+DTSTAMP:20220221T003359Z
+UID:58fkc98ili5ncnd4dd8fbrs789@google.com
+CREATED:20220107T045933Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T045933Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STA3032
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210829T200000
+DTEND;TZID=America/New_York:20210829T213000
+RRULE:FREQ=WEEKLY;UNTIL=20220109T045959Z;BYDAY=SU
+DTSTAMP:20220221T003359Z
+UID:499p3it1tq5hh4tk864uaichds@google.com
+CREATED:20210827T173414Z
+DESCRIPTION:<ul><li>What I did well?</li><li>What I can improve?</li><li>Sc
+ hedule adjustments<ul><li>Check weather</li><li>Saturday ride</li></ul></li
+ ><li>Goal of the week</li></ul>
+LAST-MODIFIED:20220107T052344Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reflection
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220109T200000
+DTEND;TZID=America/New_York:20220109T213000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+EXDATE;TZID=America/New_York:20220220T200000
+DTSTAMP:20220221T003359Z
+UID:499p3it1tq5hh4tk864uaichds_R20220110T010000@google.com
+CREATED:20210827T173414Z
+DESCRIPTION:<ul><li>What I did well?</li><li>What I can improve?</li><li>Sc
+ hedule adjustments<ul><li>Check weather</li><li>Saturday ride</li></ul></li
+ ><li>Goal of the week</li></ul>
+LAST-MODIFIED:20220107T052344Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reflection
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200824T183000
+DTEND;TZID=America/New_York:20200824T193000
+RRULE:FREQ=WEEKLY;UNTIL=20200907T035959Z;BYDAY=MO
+DTSTAMP:20220221T003359Z
+UID:7lblpese132f7chlpgclj3b007@google.com
+CREATED:20200825T041213Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T142837Z
+LOCATION:Cypress & Grove Brewing Company\, 1001 NW 4th St\, Gainesville\, F
+ L 32601\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Group Run
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200907T183000
+DTEND;TZID=America/New_York:20200907T193000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:7lblpese132f7chlpgclj3b007_R20200907T223000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/mmw-shdv-kpg
+RECURRENCE-ID;TZID=America/New_York:20200907T183000
+CREATED:20200825T041213Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/mmw-shdv-kpg\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T142837Z
+LOCATION:Cypress & Grove Brewing Company\, 1001 NW 4th St\, Gainesville\, F
+ L 32601\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Group Run
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210118T170000
+DTEND;TZID=America/New_York:20210118T180000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:7lblpese132f7chlpgclj3b007_R20200907T223000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/mmw-shdv-kpg
+RECURRENCE-ID;TZID=America/New_York:20210118T183000
+CREATED:20200825T041213Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/mmw-shdv-kpg\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T142837Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TG Group Run
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210222T170000
+DTEND;TZID=America/New_York:20210222T180000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:7lblpese132f7chlpgclj3b007_R20200907T223000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/mmw-shdv-kpg
+RECURRENCE-ID;TZID=America/New_York:20210222T183000
+CREATED:20200825T041213Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/mmw-shdv-kpg\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T142837Z
+LOCATION:Cypress & Grove Brewing Company\, 1001 NW 4th St\, Gainesville\, F
+ L 32601\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Group Run
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:4D5F584B-3B99-4542-9539-47171523FBD5
+UID:4D5F584B-3B99-4542-9539-47171523FBD5
+ACKNOWLEDGED:20210222T213001Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210412T190000
+DTEND;TZID=America/New_York:20210412T200000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:7lblpese132f7chlpgclj3b007_R20200907T223000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/mmw-shdv-kpg
+RECURRENCE-ID;TZID=America/New_York:20210412T183000
+CREATED:20200825T041213Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/mmw-shdv-kpg\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T142837Z
+LOCATION:Cypress & Grove Brewing Company\, 1001 NW 4th St\, Gainesville\, F
+ L 32601\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Group Run
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200907T183000
+DTEND;TZID=America/New_York:20200907T193000
+RRULE:FREQ=WEEKLY;UNTIL=20210510T035959Z;BYDAY=MO
+EXDATE;TZID=America/New_York:20200914T183000
+EXDATE;TZID=America/New_York:20200921T183000
+EXDATE;TZID=America/New_York:20200928T183000
+EXDATE;TZID=America/New_York:20201005T183000
+EXDATE;TZID=America/New_York:20201109T183000
+EXDATE;TZID=America/New_York:20201214T183000
+EXDATE;TZID=America/New_York:20210111T183000
+EXDATE;TZID=America/New_York:20210201T183000
+EXDATE;TZID=America/New_York:20210215T183000
+EXDATE;TZID=America/New_York:20210315T183000
+EXDATE;TZID=America/New_York:20210322T183000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:7lblpese132f7chlpgclj3b007_R20200907T223000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/mmw-shdv-kpg
+CREATED:20200825T041213Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/mmw-shdv-kpg\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T142837Z
+LOCATION:Cypress & Grove Brewing Company\, 1001 NW 4th St\, Gainesville\, F
+ L 32601\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Group Run
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;ACKNOWLEDGED=20210503T221218Z:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:205C8084-65D7-4E43-B463-948B524F4A09
+UID:205C8084-65D7-4E43-B463-948B524F4A09
+ACKNOWLEDGED:20210503T221218Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210510T183000
+DTEND;TZID=America/New_York:20210510T193000
+RRULE:FREQ=WEEKLY;UNTIL=20211004T035959Z;BYDAY=MO
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:7lblpese132f7chlpgclj3b007_R20210510T223000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/mmw-shdv-kpg
+CREATED:20200825T041213Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/mmw-shdv-kpg\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T142837Z
+LOCATION:Cypress & Grove Brewing Company\, 1001 NW 4th St\, Gainesville\, F
+ L 32601\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Group Run
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;ACKNOWLEDGED=20210621T231150Z:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:205C8084-65D7-4E43-B463-948B524F4A09
+UID:205C8084-65D7-4E43-B463-948B524F4A09
+ACKNOWLEDGED:20210628T230009Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20211004T183000
+DTEND;TZID=America/New_York:20211004T193000
+RRULE:FREQ=WEEKLY;UNTIL=20211129T045959Z;BYDAY=MO
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:7lblpese132f7chlpgclj3b007_R20211004T223000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/mmw-shdv-kpg
+CREATED:20200825T041213Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/mmw-shdv-kpg\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T142837Z
+LOCATION:Cypress & Grove Brewing Company\, 1001 NW 4th St\, Gainesville\, F
+ L 32601\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Group Run
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;ACKNOWLEDGED=20210621T231150Z:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:205C8084-65D7-4E43-B463-948B524F4A09
+UID:205C8084-65D7-4E43-B463-948B524F4A09
+ACKNOWLEDGED:20210628T230009Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20211129T183000
+DTEND;TZID=America/New_York:20211129T193000
+RRULE:FREQ=WEEKLY;UNTIL=20220110T045959Z;BYDAY=MO
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:7lblpese132f7chlpgclj3b007_R20211129T233000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/mmw-shdv-kpg
+CREATED:20200825T041213Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/mmw-shdv-kpg\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T142837Z
+LOCATION:Cypress & Grove Brewing Company\, 1001 NW 4th St\, Gainesville\, F
+ L 32601\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Group Run
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;ACKNOWLEDGED=20210621T231150Z:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:205C8084-65D7-4E43-B463-948B524F4A09
+UID:205C8084-65D7-4E43-B463-948B524F4A09
+ACKNOWLEDGED:20210628T230009Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210919T213000
+DTEND;TZID=America/New_York:20210919T220000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220109T045959Z;BYDAY=SU,TH,TU
+DTSTAMP:20220221T003359Z
+UID:5m0g3rhku78chtjckp2uliffbq@google.com
+CREATED:20210521T050915Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T143050Z
+LOCATION:
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Bed Routine
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:DCA47404-A0BA-4E35-8BEA-5E3DF4F8E4BC
+UID:DCA47404-A0BA-4E35-8BEA-5E3DF4F8E4BC
+ACKNOWLEDGED:20210702T022533Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220107T213000
+DTEND;TZID=America/New_York:20220107T220000
+DTSTAMP:20220221T003359Z
+UID:5m0g3rhku78chtjckp2uliffbq@google.com
+RECURRENCE-ID;TZID=America/New_York:20220106T213000
+CREATED:20210521T050915Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T143050Z
+LOCATION:
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Bed Routine
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210614T213000
+DTEND;TZID=America/New_York:20210614T220000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20210628T035959Z;BYDAY=MO,WE
+DTSTAMP:20220221T003359Z
+UID:k0rrm6m54q5rqmr25tb3nngkjs@google.com
+CREATED:20210607T153624Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T143127Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Bed Routine
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:B0DEB0CB-A6EC-4681-8CBA-38AC394FA071
+UID:B0DEB0CB-A6EC-4681-8CBA-38AC394FA071
+ACKNOWLEDGED:20210624T010001Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210816T203000
+DTEND;TZID=America/New_York:20210816T210000
+DTSTAMP:20220221T003359Z
+UID:k0rrm6m54q5rqmr25tb3nngkjs_R20210629T013000@google.com
+RECURRENCE-ID;TZID=America/New_York:20210816T213000
+CREATED:20210607T153624Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T143127Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Bed Routine
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210818T183000
+DTEND;TZID=America/New_York:20210818T190000
+DTSTAMP:20220221T003359Z
+UID:k0rrm6m54q5rqmr25tb3nngkjs_R20210629T013000@google.com
+RECURRENCE-ID;TZID=America/New_York:20210818T213000
+CREATED:20210607T153624Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T143127Z
+LOCATION:
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Bed Routine
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210628T213000
+DTEND;TZID=America/New_York:20210628T220000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220110T045959Z;BYDAY=MO,WE
+DTSTAMP:20220221T003359Z
+UID:k0rrm6m54q5rqmr25tb3nngkjs_R20210629T013000@google.com
+CREATED:20210607T153624Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T143127Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Bed Routine
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:B0DEB0CB-A6EC-4681-8CBA-38AC394FA071
+UID:B0DEB0CB-A6EC-4681-8CBA-38AC394FA071
+ACKNOWLEDGED:20210622T010008Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200901T063000
+DTEND;TZID=America/New_York:20200901T080000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200910T035959Z;BYDAY=TH,TU
+EXDATE;TZID=America/New_York:20200901T063000
+EXDATE;TZID=America/New_York:20200903T063000
+EXDATE;TZID=America/New_York:20200908T063000
+DTSTAMP:20220221T003359Z
+UID:0la0bsme8rk3qs759sb3u29k03@google.com
+CREATED:20200831T221432Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T150004Z
+LOCATION:James G. Pressly Stadium\, 325 Woodlawn Dr\, Gainesville\, FL 3260
+ 8\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TriGators: Track Workout
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200910T063000
+DTEND;TZID=America/New_York:20200910T080000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0la0bsme8rk3qs759sb3u29k03_R20200910T103000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/kvz-xgif-sdq
+RECURRENCE-ID;TZID=America/New_York:20200910T063000
+CREATED:20200831T221432Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/kvz-xgif-sdq\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T150004Z
+LOCATION:James G. Pressly Stadium\, 325 Woodlawn Dr\, Gainesville\, FL 3260
+ 8\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:!TriGators: Track Workout
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20201029T050000
+DTEND;TZID=America/New_York:20201029T150000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0la0bsme8rk3qs759sb3u29k03_R20200910T103000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/kvz-xgif-sdq
+RECURRENCE-ID;TZID=America/New_York:20201029T063000
+CREATED:20200831T221432Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/kvz-xgif-sdq\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T150004Z
+LOCATION:James G. Pressly Stadium\, 325 Woodlawn Dr\, Gainesville\, FL 3260
+ 8\, USA
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Ride to Orlando
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20201117T063000
+DTEND;TZID=America/New_York:20201117T080000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0la0bsme8rk3qs759sb3u29k03_R20200910T103000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/kvz-xgif-sdq
+RECURRENCE-ID;TZID=America/New_York:20201117T063000
+CREATED:20200831T221432Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/kvz-xgif-sdq\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T150004Z
+LOCATION:James G. Pressly Stadium\, 325 Woodlawn Dr\, Gainesville\, FL 3260
+ 8\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TriGators: Track Workout
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210511T173000
+DTEND;TZID=America/New_York:20210511T183000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0la0bsme8rk3qs759sb3u29k03_R20210504T103000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=evan56
+ 1levy@gmail.com;X-NUM-GUESTS=0:mailto:evan561levy@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/kvz-xgif-sdq
+RECURRENCE-ID;TZID=America/New_York:20210511T063000
+CREATED:20200831T221432Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/kvz-xgif-sdq\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T150004Z
+LOCATION:James G. Pressly Stadium\, 325 Woodlawn Dr\, Gainesville\, FL 3260
+ 8\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TriGators: Track Workout
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210513T063000
+DTEND;TZID=America/New_York:20210513T080000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0la0bsme8rk3qs759sb3u29k03_R20210504T103000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=evan56
+ 1levy@gmail.com;X-NUM-GUESTS=0:mailto:evan561levy@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/kvz-xgif-sdq
+RECURRENCE-ID;TZID=America/New_York:20210513T063000
+CREATED:20200831T221432Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/kvz-xgif-sdq\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T150004Z
+LOCATION:James G. Pressly Stadium\, 325 Woodlawn Dr\, Gainesville\, FL 3260
+ 8\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TriGators: Track Workout
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210629T051500
+DTEND;TZID=America/New_York:20210629T064500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0la0bsme8rk3qs759sb3u29k03_R20210629T103000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=evan56
+ 1levy@gmail.com;X-NUM-GUESTS=0:mailto:evan561levy@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/kvz-xgif-sdq
+RECURRENCE-ID;TZID=America/New_York:20210629T063000
+CREATED:20200831T221432Z
+DESCRIPTION:Phase II: Lactate threshold\, Running economy (current)\nPhase 
+ III: VO2 Max\, lactate threshold (July 23)\nPhase IV: All 3 + finishing kic
+ k. (August 24)\nRace: September 26\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this sectio
+ n of the description.\n\nThis event has a video call.\nJoin: https://meet.g
+ oogle.com/kvz-xgif-sdq\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220107T150004Z
+LOCATION:James G. Pressly Stadium\, 325 Woodlawn Dr\, Gainesville\, FL 3260
+ 8\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TriGators: Track Workout
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210824T073000
+DTEND;TZID=America/New_York:20210824T090000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0la0bsme8rk3qs759sb3u29k03_R20210629T103000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=evan56
+ 1levy@gmail.com;X-NUM-GUESTS=0:mailto:evan561levy@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/kvz-xgif-sdq
+RECURRENCE-ID;TZID=America/New_York:20210824T063000
+CREATED:20200831T221432Z
+DESCRIPTION:Phase II: Lactate threshold\, Running economy (current)\nPhase 
+ III: VO2 Max\, lactate threshold (July 23)\nPhase IV: All 3 + finishing kic
+ k. (August 24)\nRace: September 26\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this sectio
+ n of the description.\n\nThis event has a video call.\nJoin: https://meet.g
+ oogle.com/kvz-xgif-sdq\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220107T150004Z
+LOCATION:James G. Pressly Stadium\, 325 Woodlawn Dr\, Gainesville\, FL 3260
+ 8\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TriGators: Track Workout
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;ACKNOWLEDGED=20210617T114618Z:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:756F8FBF-7859-4F48-BD6A-C7DD5481665E
+UID:756F8FBF-7859-4F48-BD6A-C7DD5481665E
+ACKNOWLEDGED:20210629T100001Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200910T063000
+DTEND;TZID=America/New_York:20200910T080000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20210504T035959Z;BYDAY=TH,TU
+EXDATE;TZID=America/New_York:20200924T063000
+EXDATE;TZID=America/New_York:20200929T063000
+EXDATE;TZID=America/New_York:20201022T063000
+EXDATE;TZID=America/New_York:20201027T063000
+EXDATE;TZID=America/New_York:20201103T063000
+EXDATE;TZID=America/New_York:20201105T063000
+EXDATE;TZID=America/New_York:20201126T063000
+EXDATE;TZID=America/New_York:20201203T063000
+EXDATE;TZID=America/New_York:20210107T063000
+EXDATE;TZID=America/New_York:20210112T063000
+EXDATE;TZID=America/New_York:20210114T063000
+EXDATE;TZID=America/New_York:20210119T063000
+EXDATE;TZID=America/New_York:20210126T063000
+EXDATE;TZID=America/New_York:20210202T063000
+EXDATE;TZID=America/New_York:20210204T063000
+EXDATE;TZID=America/New_York:20210218T063000
+EXDATE;TZID=America/New_York:20210223T063000
+EXDATE;TZID=America/New_York:20210311T063000
+EXDATE;TZID=America/New_York:20210316T063000
+EXDATE;TZID=America/New_York:20210323T063000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0la0bsme8rk3qs759sb3u29k03_R20200910T103000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/kvz-xgif-sdq
+CREATED:20200831T221432Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/kvz-xgif-sdq\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T150004Z
+LOCATION:James G. Pressly Stadium\, 325 Woodlawn Dr\, Gainesville\, FL 3260
+ 8\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TriGators: Track Workout
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:756F8FBF-7859-4F48-BD6A-C7DD5481665E
+UID:756F8FBF-7859-4F48-BD6A-C7DD5481665E
+ACKNOWLEDGED:20201006T100001Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210504T063000
+DTEND;TZID=America/New_York:20210504T080000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20210629T035959Z;BYDAY=TH,TU
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0la0bsme8rk3qs759sb3u29k03_R20210504T103000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=evan56
+ 1levy@gmail.com;X-NUM-GUESTS=0:mailto:evan561levy@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/kvz-xgif-sdq
+CREATED:20200831T221432Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/kvz-xgif-sdq\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T150004Z
+LOCATION:James G. Pressly Stadium\, 325 Woodlawn Dr\, Gainesville\, FL 3260
+ 8\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TriGators: Track Workout
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;ACKNOWLEDGED=20210617T114618Z:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:756F8FBF-7859-4F48-BD6A-C7DD5481665E
+UID:756F8FBF-7859-4F48-BD6A-C7DD5481665E
+ACKNOWLEDGED:20210617T114618Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210629T063000
+DTEND;TZID=America/New_York:20210629T080000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220111T045959Z;BYDAY=TH,TU
+EXDATE;TZID=America/New_York:20210727T063000
+EXDATE;TZID=America/New_York:20210729T063000
+EXDATE;TZID=America/New_York:20210923T063000
+EXDATE;TZID=America/New_York:20210930T063000
+EXDATE;TZID=America/New_York:20211118T063000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0la0bsme8rk3qs759sb3u29k03_R20210629T103000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=evan56
+ 1levy@gmail.com;X-NUM-GUESTS=0:mailto:evan561levy@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/kvz-xgif-sdq
+CREATED:20200831T221432Z
+DESCRIPTION:Phase II: Lactate threshold\, Running economy (current)\nPhase 
+ III: VO2 Max\, lactate threshold (July 23)\nPhase IV: All 3 + finishing kic
+ k. (August 24)\nRace: September 26\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this sectio
+ n of the description.\n\nThis event has a video call.\nJoin: https://meet.g
+ oogle.com/kvz-xgif-sdq\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220107T150004Z
+LOCATION:James G. Pressly Stadium\, 325 Woodlawn Dr\, Gainesville\, FL 3260
+ 8\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TriGators: Track Workout
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;ACKNOWLEDGED=20210617T114618Z:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:756F8FBF-7859-4F48-BD6A-C7DD5481665E
+UID:756F8FBF-7859-4F48-BD6A-C7DD5481665E
+ACKNOWLEDGED:20210629T100001Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220107T194500Z
+DTEND:20220107T214500Z
+DTSTAMP:20220221T003359Z
+UID:3ra772sb9b7imdjvipr7ps7iel@google.com
+CREATED:20220107T051952Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T200010Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Read class syllabus'\, introduce2profs
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:53BD8ED1-BB51-4CAE-85BA-27C5BFDA7D82
+UID:53BD8ED1-BB51-4CAE-85BA-27C5BFDA7D82
+ACKNOWLEDGED:20220107T200008Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220113T113000
+DTEND;TZID=America/New_York:20220113T143000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+EXDATE;TZID=America/New_York:20220303T113000
+EXDATE;TZID=America/New_York:20220217T113000
+DTSTAMP:20220221T003359Z
+UID:43s70jd756ceanfnh8dntojd5r@google.com
+CREATED:20220107T201559Z
+DESCRIPTION:<a href="https://ufl.zoom.us/j/92299939419" id="ow20528" __is_o
+ wner="true">https://ufl.zoom.us/j/92299939419</a>
+LAST-MODIFIED:20220107T201559Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STA3032 - Office Hours
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210919T140000
+DTEND;TZID=America/New_York:20210919T170000
+RRULE:FREQ=WEEKLY;UNTIL=20211226T045959Z;BYDAY=SU
+EXDATE;TZID=America/New_York:20211205T140000
+EXDATE;TZID=America/New_York:20211219T140000
+DTSTAMP:20220221T003359Z
+UID:47g2jjd6n3n3i7h01jvh5a51n7@google.com
+CREATED:20210918T055733Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T210625Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meal Prep
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210919T163000
+DTEND;TZID=America/New_York:20210919T173000
+DTSTAMP:20220221T003359Z
+UID:47g2jjd6n3n3i7h01jvh5a51n7@google.com
+RECURRENCE-ID;TZID=America/New_York:20210919T140000
+CREATED:20210918T055733Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T210625Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Meal Prep
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220111T100000
+DTEND;TZID=America/New_York:20220111T120000
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=TH,TU
+EXDATE;TZID=America/New_York:20220303T100000
+EXDATE;TZID=America/New_York:20220215T100000
+EXDATE;TZID=America/New_York:20220217T100000
+DTSTAMP:20220221T003359Z
+UID:5hq88htsgbutatrrgvp2qukuca@google.com
+CREATED:20220107T213414Z
+DESCRIPTION:<a href="https://ufl.zoom.us/j/99534669214?pwd=NHR6RCtoV3RCZGxj
+ azlWMDUrREgwUT09" id="ow24841" __is_owner="true">https://ufl.zoom.us/j/9953
+ 4669214?pwd=NHR6RCtoV3RCZGxjazlWMDUrREgwUT09</a><br>Password: KSP
+LAST-MODIFIED:20220107T213440Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CIS4301 - Office Hours
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220111T120000
+DTEND;TZID=America/New_York:20220111T133000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+EXDATE;TZID=America/New_York:20220215T120000
+DTSTAMP:20220221T003359Z
+UID:1cqo77qolknoqqm878l4u1i12c@google.com
+CREATED:20220107T214252Z
+DESCRIPTION:In Canvas Zoom Conferences
+LAST-MODIFIED:20220107T214252Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CIS4930 - Office Hours
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220110T150000
+DTEND;TZID=America/New_York:20220110T170000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220112T045959Z;BYDAY=MO,WE
+DTSTAMP:20220221T003359Z
+UID:1tiegilc0lhnjm34spbpnijrke@google.com
+CREATED:20220107T213208Z
+DESCRIPTION:<a href="https://ufl.zoom.us/j/8678609605?pwd=cTVqbFQxODNXd2NQM
+ HFYOURKVkN1Zz09" id="ow24466" __is_owner="true">https://ufl.zoom.us/j/86786
+ 09605?pwd=cTVqbFQxODNXd2NQMHFYOURKVkN1Zz09</a><br>Password: MS
+LAST-MODIFIED:20220107T214311Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CIS4301 - Office Hours
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220112T150000
+DTEND;TZID=America/New_York:20220112T170000
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=MO,WE
+EXDATE;TZID=America/New_York:20220216T150000
+DTSTAMP:20220221T003359Z
+UID:1tiegilc0lhnjm34spbpnijrke_R20220112T200000@google.com
+CREATED:20220107T213208Z
+DESCRIPTION:<a href="https://ufl.zoom.us/j/8678609605?pwd=cTVqbFQxODNXd2NQM
+ HFYOURKVkN1Zz09" id="ow24466" __is_owner="true">https://ufl.zoom.us/j/86786
+ 09605?pwd=cTVqbFQxODNXd2NQMHFYOURKVkN1Zz09</a><br>Password: MS
+LAST-MODIFIED:20220107T214311Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CIS4301 - Office Hours
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220315T150000
+DTEND;TZID=America/New_York:20220315T165500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:1qmlanq5mgoebfp2rjpkjq8dtc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/swp-uzcm-ome
+RECURRENCE-ID;TZID=America/New_York:20220315T150000
+CREATED:20220107T044200Z
+DESCRIPTION:CSE A101\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/swp-
+ uzcm-ome\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220107T214736Z
+LOCATION:Department of Computer and Information Science and Engineering\, 4
+ 32 Newell Dr\, Gainesville\, FL 32611\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CIS4930 - Exam 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220419T150000
+DTEND;TZID=America/New_York:20220419T165500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:1qmlanq5mgoebfp2rjpkjq8dtc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/swp-uzcm-ome
+RECURRENCE-ID;TZID=America/New_York:20220419T150000
+CREATED:20220107T044200Z
+DESCRIPTION:CSE A101\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/swp-
+ uzcm-ome\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220107T214856Z
+LOCATION:Department of Computer and Information Science and Engineering\, 4
+ 32 Newell Dr\, Gainesville\, FL 32611\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CIS4930 - Final Exam
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220111T113000
+DTEND;TZID=America/New_York:20220111T123500
+RRULE:FREQ=WEEKLY;BYDAY=TU
+EXDATE;TZID=America/New_York:20220215T113000
+DTSTAMP:20220221T003359Z
+UID:53lja774pnn3ubg0a87u6eq7qr@google.com
+CREATED:20220107T215231Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T215231Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:COT4501 - Office Hours
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220111T150000
+DTEND;TZID=America/New_York:20220111T160000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+EXDATE;TZID=America/New_York:20220215T150000
+DTSTAMP:20220221T003359Z
+UID:7k02t811sr4i1vd83b5obmjep1@google.com
+CREATED:20220107T220907Z
+DESCRIPTION:
+LAST-MODIFIED:20220107T220907Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AEC3410 - Office Hours
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210924T180000
+DTEND;TZID=America/New_York:20210924T193000
+EXDATE;TZID=America/New_York:20210924T180000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220114T045959Z;BYDAY=FR
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:lj1dg4r4jimnfouv801uf6mifc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=evan56
+ 1levy@gmail.com;X-NUM-GUESTS=0:mailto:evan561levy@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/baj-zfna-bge
+CREATED:20210111T145741Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/baj-zfna-bge\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220107T230712Z
+LOCATION:Florida Pool\, 224 Fletcher Dr\, Gainesville\, FL 32608\, USA
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:TriGators: Swim
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;ACKNOWLEDGED=20210621T234509Z:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/baj-zfna-bge
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:14970412-9FBD-429A-AC9C-80153396CE5C
+UID:14970412-9FBD-429A-AC9C-80153396CE5C
+ACKNOWLEDGED:20220107T230203Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210903T183000
+DTEND;TZID=America/New_York:20210903T193000
+RRULE:FREQ=MONTHLY;BYDAY=1FR
+DTSTAMP:20220221T003359Z
+UID:1cfvknuu8nngbc05sq5o999hac_R20210903T223000@google.com
+CREATED:20200828T164212Z
+DESCRIPTION:\nPhase II: Lactate threshold\, Running economy (current)\nPhas
+ e III: VO2 Max\, lactate threshold (July 23)\nPhase IV: All 3 + finishing k
+ ick. (August 24)\nRace: September 26
+LAST-MODIFIED:20220107T230712Z
+LOCATION:Big Top Brewing Company Gainesville\, 201 SE 2nd Ave #101\, Gaines
+ ville\, FL 32601\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Group Run
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:ECBFDF50-296B-4118-9E11-A657C920B6B7
+UID:ECBFDF50-296B-4118-9E11-A657C920B6B7
+ACKNOWLEDGED:20220107T230203Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220108T000000Z
+DTEND:20220108T004500Z
+DTSTAMP:20220221T003359Z
+UID:4dn96d48dg3bshsrkeudb1s7v1@google.com
+CREATED:20220107T052049Z
+DESCRIPTION:
+LAST-MODIFIED:20220108T000002Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Zero sum budget
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:7E1F67EA-7629-457C-97BF-E4571954F6E4
+UID:7E1F67EA-7629-457C-97BF-E4571954F6E4
+ACKNOWLEDGED:20220108T000001Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220108T160000Z
+DTEND:20220108T180000Z
+DTSTAMP:20220221T003359Z
+UID:1nngb742og6537gm3h7eoefnhq@google.com
+CREATED:20210918T055137Z
+DESCRIPTION:
+LAST-MODIFIED:20220108T161157Z
+LOCATION:
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Python Script
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:3C527D9A-31DC-4D86-B2B1-284F0D34DF76
+UID:3C527D9A-31DC-4D86-B2B1-284F0D34DF76
+ACKNOWLEDGED:20220108T161155Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220108T140000
+DTEND;TZID=America/New_York:20220108T170000
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=SA
+DTSTAMP:20220221T003359Z
+UID:v5dgktcaesvbe0temit35iu45d@google.com
+CREATED:20210918T055733Z
+DESCRIPTION:
+LAST-MODIFIED:20220108T190524Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Meal Prep
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:1D8FA0C0-CC60-4EE1-A2ED-4E3D412D1181
+UID:1D8FA0C0-CC60-4EE1-A2ED-4E3D412D1181
+ACKNOWLEDGED:20220108T190025Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T170000Z
+DTEND:20220110T183000Z
+DTSTAMP:20220221T003359Z
+UID:7l96lt89tfhpdl258a2ru1knlo@google.com
+CREATED:20220110T151347Z
+DESCRIPTION:
+LAST-MODIFIED:20220110T151347Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Swim
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220111T130000Z
+DTEND:20220111T160000Z
+DTSTAMP:20220221T003359Z
+UID:vq6pa41mpr3he5kgn0vkms27ds@google.com
+CREATED:20220110T160419Z
+DESCRIPTION:
+LAST-MODIFIED:20220110T160419Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Long Run
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220111T183000Z
+DTEND:20220111T193000Z
+DTSTAMP:20220221T003359Z
+UID:vgikaf3njrchdirh03njroonko@google.com
+CREATED:20211229T001153Z
+DESCRIPTION:
+LAST-MODIFIED:20220110T160512Z
+LOCATION:
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Apply to Strava
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220111T154000Z
+DTEND:20220111T163000Z
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:11n00nn92vjpaviq4ra147nv35@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/mrh-okdj-rhy
+CREATED:20220111T182527Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/mrh-okdj-rhy\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220111T182527Z
+LOCATION:Pugh Hall\, Gainesville\, FL 32603\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:COT4501 - Numerical Analysis
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220110T110000
+DTEND;TZID=America/New_York:20220110T130000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220111T045959Z;BYDAY=FR,MO,TU,WE
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0d8ovtdhko84n5ufo0cs5khcgg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+CREATED:20220107T050325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220111T182601Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Code Work
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220110T103000
+DTEND;TZID=America/New_York:20220110T120000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0d8ovtdhko84n5ufo0cs5khcgg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+RECURRENCE-ID;TZID=America/New_York:20220110T110000
+CREATED:20220107T050325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220111T182601Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Code Work
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220106T150000Z
+DTEND:20220106T160000Z
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=kim@bemyapp.com:mailto:kim@bemyapp.com
+UID:366ahdq4rrtsigsss6fmsehm9g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ arlesrichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gma
+ il.com
+CREATED:20220104T214753Z
+DESCRIPTION:Join the University of Florida\, IBM and the Florida Tech Counc
+ il to celebrate the winners of Florida Hacks with IBM. Tune in&nbsp\;via th
+ e Platform Room&nbsp\;<a href="https://floridahackswithibm-platform.bemyapp
+ .com/#/conference/61cde36c41534e00327cdab4" id="ow775" __is_owner="true">he
+ re</a>&nbsp\;or via the public YouTube&nbsp\;<a href="https://youtu.be/opQm
+ 4Rvqd3I" id="ow779" __is_owner="true">here</a>.
+LAST-MODIFIED:20220112T184042Z
+LOCATION:https://floridahackswithibm-platform.bemyapp.com/#/conference/61cd
+ e36c41534e00327cdab4
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Florida Hacks with IBM Winners Announcement
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220106T104000
+DTEND;TZID=America/New_York:20220106T123500
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220421T035959Z;BYDAY=TH
+DTSTAMP:20220221T003359Z
+UID:2go0iq97gdvqdad4iqv1i22tq6@google.com
+CREATED:20220107T045056Z
+DESCRIPTION:PUGH 170
+LAST-MODIFIED:20220113T173457Z
+LOCATION:Pugh Hall\, Gainesville\, FL 32603\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:COT4501 - Numerical Analysis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:2DAFAB57-A11D-42B6-8660-B8D2FDAE6C28
+UID:2DAFAB57-A11D-42B6-8660-B8D2FDAE6C28
+ACKNOWLEDGED:20220113T173454Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220303T104000
+DTEND;TZID=America/New_York:20220303T123500
+DTSTAMP:20220221T003359Z
+UID:2go0iq97gdvqdad4iqv1i22tq6@google.com
+RECURRENCE-ID;TZID=America/New_York:20220303T104000
+CREATED:20220107T045056Z
+DESCRIPTION:PUGH 170
+LAST-MODIFIED:20220113T173457Z
+LOCATION:Pugh Hall\, Gainesville\, FL 32603\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:COT4501 - Exam
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220116T150000Z
+DTEND:20220116T153000Z
+DTSTAMP:20220221T003359Z
+UID:troopi0pee1m2o36t0v652f3n4@google.com
+CREATED:20211228T144337Z
+DESCRIPTION:For more details on the event click <a href=https://ripplematch
+ .com/event/unity/98f9b36d/>here</a>
+LAST-MODIFIED:20220114T152650Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Unity @ CUSEC
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:E29EE7A4-0DC1-46E3-A317-47B9889650B2
+UID:E29EE7A4-0DC1-46E3-A317-47B9889650B2
+ACKNOWLEDGED:20220114T150938Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220112T110000
+DTEND;TZID=America/New_York:20220112T130000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:c90l4lpu3fg40s1ortai7t14rh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+RECURRENCE-ID;TZID=America/New_York:20220112T110000
+CREATED:20220107T050325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220114T154026Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Errands
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220114T110000
+DTEND;TZID=America/New_York:20220114T130000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:c90l4lpu3fg40s1ortai7t14rh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+RECURRENCE-ID;TZID=America/New_York:20220114T110000
+CREATED:20220107T050325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220114T172016Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Code Work
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H5M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:00A15B21-9162-4F7F-8E9D-7F8CD2C6CCDB
+UID:00A15B21-9162-4F7F-8E9D-7F8CD2C6CCDB
+ACKNOWLEDGED:20220114T172015Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220114T230000Z
+DTEND:20220115T004500Z
+DTSTAMP:20220221T003359Z
+UID:a7isri780k02qaf3vjqou4jvig@google.com
+CREATED:20220113T153513Z
+DESCRIPTION:
+LAST-MODIFIED:20220114T223247Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ACE social
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:A7B82283-F3B5-4FAF-8D52-811B46538901
+UID:A7B82283-F3B5-4FAF-8D52-811B46538901
+ACKNOWLEDGED:20220114T223243Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220114T233000Z
+DTEND:20220116T230000Z
+DTSTAMP:20220221T003359Z
+UID:3lknu4i5eb8tbtlc2pis9thk81@google.com
+CREATED:20220114T172214Z
+DESCRIPTION:Here is your Link: https://hopin.com/events/cusec-2022
+LAST-MODIFIED:20220115T025726Z
+LOCATION:Hosted virtually on Hopin (link in the description)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Canadian University Software Engineering Conference 2022
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:A239E5FE-D164-4E49-953B-23AB07C6A4C4
+UID:A239E5FE-D164-4E49-953B-23AB07C6A4C4
+ACKNOWLEDGED:20220115T025648Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220109T150000
+DTEND;TZID=America/New_York:20220109T160000
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=SA,SU
+EXDATE;TZID=America/New_York:20220220T150000
+DTSTAMP:20220221T003359Z
+UID:u9tuhq3uj30riqn5ifrhv8bjl6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/hvr-byvj-cga
+CREATED:20200909T202933Z
+DESCRIPTION:Family call list<br><ol style=""><li>Dad<br></li><li>Jerry<br><
+ /li><li>Tete<br></li><li>Trish<br></li><li>Lela<br></li><li>Emily<br></li><
+ li>Marcos<br></li><li>Juan<br></li><li>Santi<br></li><li>Adrian<br></li><li
+ >Dagam**<br></li><li>Matthew</li></ol><br>Friend call list<ol style=""><li>
+ Garrett</li><li>Parker<br></li><li>Cameron<br></li><li>Brody<br></li><li>Ka
+ lista<br></li><li>Mia<br></li><li>Eva<br></li><li>Cole<br></li><li>Evan<br>
+ </li><li>Narottama<br></li><li>Mia<br></li><li>David<br></li></ol>\n\n-::~:
+ ~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ :~:~::-\nDo not edit this section of the description.\n\nThis event has a v
+ ideo call.\nJoin: https://meet.google.com/hvr-byvj-cga\n-::~:~::~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220116T202538Z
+LOCATION:
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Calls
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/hvr-byvj-cga
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:7684FC3E-A2D3-4E9F-B03B-A07BC1FF8C07
+UID:7684FC3E-A2D3-4E9F-B03B-A07BC1FF8C07
+ACKNOWLEDGED:20220116T202533Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20211226T140000
+DTEND;TZID=America/New_York:20211226T170000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+EXDATE;TZID=America/New_York:20220220T140000
+DTSTAMP:20220221T003359Z
+UID:jgjqmco20963pb52rmnakioob4@google.com
+CREATED:20210918T055733Z
+DESCRIPTION:
+LAST-MODIFIED:20220116T202540Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Meal Prep
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:D5BF6014-BF84-4478-B1BC-B22048548269
+UID:D5BF6014-BF84-4478-B1BC-B22048548269
+ACKNOWLEDGED:20220116T202534Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220117T000000Z
+DTEND:20220117T010000Z
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=Unknown Organizer:mailto:unknownorganizer@calendar.google.com
+UID:7kukuqrfedlm2f9tsheprjcoevcqir7uqu9vjv4k4vi13ndn4fv09l2tte30q6b7t7g0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+CLASS:PRIVATE
+CREATED:20220116T220950Z
+DESCRIPTION:Bahama Breeze\nGainesville\, 3989 Plaza Blvd\, Gainesville\, FL
+ \, 32608\n+1 352-378-7555
+LAST-MODIFIED:20220117T235549Z
+LOCATION:Gainesville\, 3989 Plaza Blvd\, Gainesville\, FL\, 32608
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reservation at Bahama Breeze
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220118T193000Z
+DTEND:20220118T200000Z
+DTSTAMP:20220221T003359Z
+UID:rqhd5k7cfgkno7v59rjkehrq2g@google.com
+CREATED:20220118T145922Z
+DESCRIPTION:
+LAST-MODIFIED:20220118T145922Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Covid APPT
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220111T090000
+DTEND;TZID=America/New_York:20220111T120000
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=TU
+EXDATE;TZID=America/New_York:20220419T090000
+EXDATE;TZID=America/New_York:20220208T090000
+EXDATE;TZID=America/New_York:20220215T090000
+DTSTAMP:20220221T003359Z
+UID:5vf838ecunk8b18pakqqnc99sm@google.com
+CREATED:20220107T201124Z
+DESCRIPTION:<a href="https://ufl.zoom.us/j/8099868625" id="ow20669" __is_ow
+ ner="true">https://ufl.zoom.us/j/8099868625</a>
+LAST-MODIFIED:20220119T035355Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:STA 3032 - Office Hours
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:8C6ACED7-8DA6-4976-ABD9-AC53C6C1B463
+UID:8C6ACED7-8DA6-4976-ABD9-AC53C6C1B463
+ACKNOWLEDGED:20220118T155909Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220118T104000
+DTEND;TZID=America/New_York:20220118T113000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220421T035959Z;BYDAY=TU
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:7i6ekean57o5vdmn4tc8eevgvd@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/jjx-kftk-efo
+CREATED:20220107T044904Z
+DESCRIPTION:PUGH 170\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/jjx-
+ kftk-efo\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220119T035356Z
+LOCATION:Pugh Hall\, Gainesville\, FL 32603\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:COT4501 - Numerical Analysis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/jjx-kftk-efo
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:BB9FCE47-96B5-40D6-9985-7582C4688A75
+UID:BB9FCE47-96B5-40D6-9985-7582C4688A75
+ACKNOWLEDGED:20220118T155910Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220119T200000Z
+DTEND:20220119T223000Z
+DTSTAMP:20220221T003359Z
+UID:c1nfoa8h5tmnomvk3je2h75u70@google.com
+CREATED:20220119T140649Z
+DESCRIPTION:
+LAST-MODIFIED:20220119T140649Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220107T093500
+DTEND;TZID=America/New_York:20220107T102500
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220421T035959Z;BYDAY=FR,MO,WE
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0h5bv6huur6jv1g3staq0mogkn_R20220107T143500@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/wqg-tfam-hit
+CREATED:20220107T043813Z
+DESCRIPTION:TUR L007\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/wqg-
+ tfam-hit\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220119T144829Z
+LOCATION:Turlington Hall\, 330 Newell Dr\, Gainesville\, FL 32611\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CIS4301 - Info/Database Systems
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/wqg-tfam-hit
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:7A1EA376-396A-46ED-932D-EB4382EF40AF
+UID:7A1EA376-396A-46ED-932D-EB4382EF40AF
+ACKNOWLEDGED:20220119T140501Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220113T160500
+DTEND;TZID=America/New_York:20220113T165500
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220421T035959Z;BYDAY=TH
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:5o2fll3gk17ga25msv5dstjdj2@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/xsp-rves-epk
+CREATED:20220107T044555Z
+DESCRIPTION:FLG 0230\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/xsp-
+ rves-epk\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220120T210757Z
+LOCATION:Florida Gym\, Gainesville\, FL 32608\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CIS4930 - Digital Health
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/xsp-rves-epk
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:CCB439D1-72F9-49F7-883F-029258419231
+UID:CCB439D1-72F9-49F7-883F-029258419231
+ACKNOWLEDGED:20220120T210755Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220226
+DTEND;VALUE=DATE:20220227
+DTSTAMP:20220221T003359Z
+UID:mh7ui4lpmku2hsflicfqjlc730@google.com
+CREATED:20220122T021129Z
+DESCRIPTION:
+LAST-MODIFIED:20220122T021129Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:UCF -> FSU
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220205
+DTEND;VALUE=DATE:20220206
+DTSTAMP:20220221T003359Z
+UID:27ptgi0go55k3h4l8atv0qr9od@google.com
+CREATED:20220123T032325Z
+DESCRIPTION:
+LAST-MODIFIED:20220123T032325Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Swamp Classic RR TT
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220304
+DTEND;VALUE=DATE:20220307
+DTSTAMP:20220221T003359Z
+UID:4dtubsne2je8e2g4518c2d1jna@google.com
+CREATED:20220123T032727Z
+DESCRIPTION:
+LAST-MODIFIED:20220123T032727Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fat Tire Festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220312
+DTEND;VALUE=DATE:20220313
+DTSTAMP:20220221T003359Z
+UID:3ll39eqjbam1f9rnn060596c3e@google.com
+CREATED:20220123T032901Z
+DESCRIPTION:
+LAST-MODIFIED:20220123T032901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CLASH Miami
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220320
+DTEND;VALUE=DATE:20220321
+DTSTAMP:20220221T003359Z
+UID:4djnan1v5f121h906puhhrffbp@google.com
+CREATED:20220123T032917Z
+DESCRIPTION:
+LAST-MODIFIED:20220123T032917Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TRIGATORS TRI
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220403
+DTSTAMP:20220221T003359Z
+UID:625nomfv4s4sffoc6bp68nuipq@google.com
+CREATED:20220123T032948Z
+DESCRIPTION:
+LAST-MODIFIED:20220123T032948Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:COLLEGATE CHAMPS
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220125T170000
+DTEND;TZID=America/New_York:20220125T190000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:39aiv66ko7tq2cnfts187un9ko@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+RECURRENCE-ID;TZID=America/New_York:20220125T130000
+CREATED:20220111T182720Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220125T205450Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Code Work
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220126T111500
+DTEND;TZID=America/New_York:20220126T120500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0h5bv6huur6jv1g3staq0mogkn_R20220107T143500@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/wqg-tfam-hit
+RECURRENCE-ID;TZID=America/New_York:20220126T093500
+CREATED:20220107T043813Z
+DESCRIPTION:TUR L007\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/wqg-
+ tfam-hit\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220126T162400Z
+LOCATION:Turlington Hall\, 330 Newell Dr\, Gainesville\, FL 32611\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CIS4301 - Info/Database Systems
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T170000Z
+DTEND:20220126T184500Z
+DTSTAMP:20220221T003359Z
+UID:uv9bivglii2432dk3h6n589dhk@google.com
+CREATED:20220126T162406Z
+DESCRIPTION:
+LAST-MODIFIED:20220126T162406Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Swim
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220126T191500
+DTEND;TZID=America/New_York:20220126T211500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:c90l4lpu3fg40s1ortai7t14rh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+RECURRENCE-ID;TZID=America/New_York:20220126T110000
+CREATED:20220107T050325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220126T200715Z
+LOCATION:
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Code Work
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220209T135500
+DTEND;TZID=America/New_York:20220209T144500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:2n1dpei04oe9tfmrnhguai63d4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/bir-iyot-nhq
+RECURRENCE-ID;TZID=America/New_York:20220209T135500
+CREATED:20220107T051148Z
+DESCRIPTION:<html-blob>Exam 1<br>CAR0100</html-blob>\n\n-::~:~::~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo no
+ t edit this section of the description.\n\nThis event has a video call.\nJo
+ in: https://meet.google.com/bir-iyot-nhq\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220129T204523Z
+LOCATION:Carleton Auditorium\, 1475 Union Rd\, Gainesville\, FL 32611\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STA3032 - Exam 1
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/bir-iyot-nhq
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220103T161000Z
+DTEND:20220103T190000Z
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t94uqbcmtpa8f0f0l5t9qob7ppvtrrpdi803i7ajk30bc0qvr4ueg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+CLASS:PRIVATE
+CREATED:20210915T190937Z
+DESCRIPTION:LUFTHANSA flight 1783\nPorto OPO 4:10pm (local time) - Munich M
+ UC 8:00pm (local time)\n\nConfirmation number: 4IV5YQ
+LAST-MODIFIED:20220129T211200Z
+LOCATION:Porto OPO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Munich (LH 1783)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210926
+DTEND;VALUE=DATE:20210927
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=Unknown Organizer:mailto:unknownorganizer@calendar.google.com
+UID:7kukuqrfedlm2f9tt5honq6jpdsqokv026umd5kj54a3i7unlpechr04u1mrc2t5qs10
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+CLASS:PRIVATE
+CREATED:20210429T020158Z
+DESCRIPTION:2021 IRONMAN 70.3 Augusta\nAugusta\, Georgia\, United States\, 
+ 30901\n\nConfirmation number: R-118RD1T9
+LAST-MODIFIED:20220129T211938Z
+LOCATION:Augusta\, Georgia\, United States\, 30901
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:2021 IRONMAN 70.3 Augusta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220110T213000
+DTEND;TZID=America/New_York:20220110T220000
+RRULE:FREQ=DAILY;UNTIL=20220131T045959Z
+DTSTAMP:20220221T003359Z
+UID:4drq62p92n1vtqcth86u7uj8j2@google.com
+CREATED:20210607T153624Z
+DESCRIPTION:
+LAST-MODIFIED:20220130T063929Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Bed Routine
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:B0DEB0CB-A6EC-4681-8CBA-38AC394FA071
+UID:B0DEB0CB-A6EC-4681-8CBA-38AC394FA071
+ACKNOWLEDGED:20220115T025648Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220131T213000
+DTEND;TZID=America/New_York:20220131T220000
+RRULE:FREQ=DAILY
+DTSTAMP:20220221T003359Z
+UID:4drq62p92n1vtqcth86u7uj8j2_R20220201T023000@google.com
+CREATED:20210607T153624Z
+DESCRIPTION:1. Stretch\n2. Boots\n3. Reflect
+LAST-MODIFIED:20220130T063929Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Night Routine
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:B0DEB0CB-A6EC-4681-8CBA-38AC394FA071
+UID:B0DEB0CB-A6EC-4681-8CBA-38AC394FA071
+ACKNOWLEDGED:20220115T025648Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220131T110000
+DTEND;TZID=America/New_York:20220131T120000
+DTSTAMP:20220221T003359Z
+UID:7c9vf42lk9hdiq92h6mt3aag19@google.com
+RECURRENCE-ID;TZID=America/New_York:20220131T060000
+CREATED:20220126T054813Z
+DESCRIPTION:
+LAST-MODIFIED:20220131T033007Z
+LOCATION:Northeast Pool\, 1100 Northeast 14th Street\, Gainesville\, FL 326
+ 01\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Masters Swimming
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220201T180000
+DTEND;TZID=America/New_York:20220201T200000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:c90l4lpu3fg40s1ortai7t14rh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+RECURRENCE-ID;TZID=America/New_York:20220131T110000
+CREATED:20220107T050325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220131T033039Z
+LOCATION:
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Code Work
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220419T100000
+DTEND;TZID=America/New_York:20220419T120000
+DTSTAMP:20220221T003359Z
+UID:5hq88htsgbutatrrgvp2qukuca@google.com
+RECURRENCE-ID;TZID=America/New_York:20220419T100000
+CREATED:20220107T213414Z
+DESCRIPTION:<a href="https://ufl.zoom.us/j/99534669214?pwd=NHR6RCtoV3RCZGxj
+ azlWMDUrREgwUT09" id="ow24841" __is_owner="true">https://ufl.zoom.us/j/9953
+ 4669214?pwd=NHR6RCtoV3RCZGxjazlWMDUrREgwUT09</a><br>Password: KSP
+LAST-MODIFIED:20220201T020542Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CIS4301 - Office Hours
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220201T100000
+DTEND;TZID=America/New_York:20220201T120000
+DTSTAMP:20220221T003359Z
+UID:5hq88htsgbutatrrgvp2qukuca@google.com
+RECURRENCE-ID;TZID=America/New_York:20220201T100000
+CREATED:20220107T213414Z
+DESCRIPTION:<a href="https://ufl.zoom.us/j/99534669214?pwd=NHR6RCtoV3RCZGxj
+ azlWMDUrREgwUT09" id="ow24841" __is_owner="true">https://ufl.zoom.us/j/9953
+ 4669214?pwd=NHR6RCtoV3RCZGxjazlWMDUrREgwUT09</a><br>Password: KSP
+LAST-MODIFIED:20220201T020558Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CIS4301 - Office Hours
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220201T150000
+DTEND;TZID=America/New_York:20220201T165500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:1qmlanq5mgoebfp2rjpkjq8dtc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/swp-uzcm-ome
+RECURRENCE-ID;TZID=America/New_York:20220201T150000
+CREATED:20220107T044200Z
+DESCRIPTION:CSE A101\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/swp-
+ uzcm-ome\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220201T182524Z
+LOCATION:Department of Computer and Information Science and Engineering\, 4
+ 32 Newell Dr\, Gainesville\, FL 32611\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CIS4930
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220210T160500
+DTEND;TZID=America/New_York:20220210T165500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:5o2fll3gk17ga25msv5dstjdj2@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/xsp-rves-epk
+RECURRENCE-ID;TZID=America/New_York:20220210T160500
+CREATED:20220107T044555Z
+DESCRIPTION:FLG 0230\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/xsp-
+ rves-epk\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220201T182606Z
+LOCATION:Florida Gym\, Gainesville\, FL 32608\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CIS4930 - Exam 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220226
+DTEND;VALUE=DATE:20220227
+DTSTAMP:20220221T003359Z
+UID:2c90jvifl4oe0g8nr3kqn8ir0u@google.com
+CREATED:20220201T210440Z
+DESCRIPTION:
+LAST-MODIFIED:20220201T210440Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Professor Racing Las Vegas
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220202T110000
+DTEND;TZID=America/New_York:20220202T130000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:c90l4lpu3fg40s1ortai7t14rh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+RECURRENCE-ID;TZID=America/New_York:20220202T110000
+CREATED:20220107T050325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220202T014805Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:VO2 Test
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T210000Z
+DTEND:20220202T230000Z
+DTSTAMP:20220221T003359Z
+UID:1uc9fct8ckuh2kigrufng2c634@google.com
+CREATED:20220202T082631Z
+DESCRIPTION:
+LAST-MODIFIED:20220202T082632Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bike
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220202T133000
+DTEND;TZID=America/New_York:20220202T143000
+DTSTAMP:20220221T003359Z
+UID:7c9vf42lk9hdiq92h6mt3aag19@google.com
+RECURRENCE-ID;TZID=America/New_York:20220202T060000
+CREATED:20220126T054813Z
+DESCRIPTION:
+LAST-MODIFIED:20220203T015312Z
+LOCATION:Northeast Pool\, 1100 Northeast 14th Street\, Gainesville\, FL 326
+ 01\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Masters Swimming
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T130000Z
+DTEND:20220203T140000Z
+DTSTAMP:20220221T003359Z
+UID:07h359n0j3pe5avdrpl73a62p7@google.com
+CREATED:20220203T015425Z
+DESCRIPTION:
+LAST-MODIFIED:20220203T015425Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ride
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220131T120000
+DTEND;TZID=America/New_York:20220131T140000
+DTSTAMP:20220221T003359Z
+UID:68m421flpek5nreupijtgmvt91@google.com
+RECURRENCE-ID;TZID=America/New_York:20220131T080000
+CREATED:20220107T050115Z
+DESCRIPTION:
+LAST-MODIFIED:20220203T143938Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Study
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220203T090000
+DTEND;TZID=America/New_York:20220203T100000
+DTSTAMP:20220221T003359Z
+UID:68m421flpek5nreupijtgmvt91@google.com
+RECURRENCE-ID;TZID=America/New_York:20220203T080000
+CREATED:20220107T050115Z
+DESCRIPTION:
+LAST-MODIFIED:20220203T143938Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Study
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:413DD9F1-31BE-485B-B1DA-DE148CBD2271
+UID:413DD9F1-31BE-485B-B1DA-DE148CBD2271
+ACKNOWLEDGED:20220203T143935Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220207T153000Z
+DTEND:20220207T160000Z
+DTSTAMP:20220221T003359Z
+UID:1rb21i4mfvh2m05m4res354a2k@google.com
+CREATED:20220207T060036Z
+DESCRIPTION:
+LAST-MODIFIED:20220207T060036Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Garmin Application
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220109T170000
+DTEND;TZID=America/New_York:20220109T190000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+EXDATE;TZID=America/New_York:20220220T170000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:4h9cheiu7fcj2kg87mauvo3t2n@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pu
+ rviscole3@gmail.com;X-NUM-GUESTS=0:mailto:purviscole3@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=camero
+ n.keenefl@gmail.com;X-NUM-GUESTS=0:mailto:cameron.keenefl@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/zid-inwd-ohv
+CREATED:20220107T051557Z
+DESCRIPTION:Podcast recording time?\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this secti
+ on of the description.\n\nThis event has a video call.\nJoin: https://meet.
+ google.com/zid-inwd-ohv\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220207T135534Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Social Dinner
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/zid-inwd-ohv
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:FA6C44A8-F7F1-4ED5-938C-BD55846030F9
+UID:FA6C44A8-F7F1-4ED5-938C-BD55846030F9
+ACKNOWLEDGED:20220116T225948Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220110T150000
+DTEND;TZID=America/New_York:20220110T170000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220207T045959Z;BYDAY=FR,MO,WE
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:62ore74ukliai290tpvucp2gnc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=robins
+ onlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/qdk-gjkr-vzn
+CREATED:20220107T050430Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/qdk-gjkr-vzn\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220208T022921Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Code Work
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/qdk-gjkr-vzn
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:FEBE1DFE-CD2E-4693-AE65-8374E7F66DA5
+UID:FEBE1DFE-CD2E-4693-AE65-8374E7F66DA5
+ACKNOWLEDGED:20220121T210838Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220126T170000
+DTEND;TZID=America/New_York:20220126T190000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:62ore74ukliai290tpvucp2gnc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/qdk-gjkr-vzn
+RECURRENCE-ID;TZID=America/New_York:20220126T150000
+CREATED:20220107T050430Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/qdk-gjkr-vzn\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220208T022921Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Code Work
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210927
+DTEND;VALUE=DATE:20210928
+RRULE:FREQ=WEEKLY;UNTIL=20220206;BYDAY=MO
+DTSTAMP:20220221T003359Z
+UID:apobe0381871rloddqrsp30t4t@google.com
+CREATED:20210630T013159Z
+DESCRIPTION:•Mindset Mentor\n•
+LAST-MODIFIED:20220208T041443Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Focus
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:2206E952-D259-4B72-A38F-924A3EF6EC35
+UID:2206E952-D259-4B72-A38F-924A3EF6EC35
+ATTACH;VALUE=URI:Chord
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20220116T202534Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210928
+DTEND;VALUE=DATE:20210929
+RRULE:FREQ=WEEKLY;UNTIL=20220207;BYDAY=TU
+DTSTAMP:20220221T003359Z
+UID:dgj94tj0advkojr9aksoh52epp@google.com
+CREATED:20210630T013216Z
+DESCRIPTION:The Minimalists\nJoe Rogan Experience
+LAST-MODIFIED:20220208T041448Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Philosophy
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:5A45FA55-A38B-417F-BFE6-E1A0BB92E6E0
+UID:5A45FA55-A38B-417F-BFE6-E1A0BB92E6E0
+ATTACH;VALUE=URI:Chord
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20220201T002005Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210929
+DTEND;VALUE=DATE:20210930
+RRULE:FREQ=WEEKLY;UNTIL=20220208;BYDAY=WE
+DTSTAMP:20220221T003359Z
+UID:j4ttgtkn6m1tqdg703aqv1lho6@google.com
+CREATED:20210630T013701Z
+DESCRIPTION:Syntax\nJS party\nLex Friedman
+LAST-MODIFIED:20220208T041452Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Engineering
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:4C9A9640-9F85-4CDB-9950-9B0D5AA891A0
+UID:4C9A9640-9F85-4CDB-9950-9B0D5AA891A0
+ATTACH;VALUE=URI:Chord
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20220118T155910Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210930
+DTEND;VALUE=DATE:20211001
+RRULE:FREQ=WEEKLY;UNTIL=20220209;BYDAY=TH
+DTSTAMP:20220221T003359Z
+UID:bcukuao753lu13ap2a95lvfmok@google.com
+CREATED:20210630T014055Z
+DESCRIPTION:
+LAST-MODIFIED:20220208T041458Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Audiobook
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:BFC2F061-1E5E-41EF-AA92-C4A668A0A28D
+UID:BFC2F061-1E5E-41EF-AA92-C4A668A0A28D
+ATTACH;VALUE=URI:Chord
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20220203T015222Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211001
+DTEND;VALUE=DATE:20211002
+RRULE:FREQ=WEEKLY;UNTIL=20220210;BYDAY=FR
+DTSTAMP:20220221T003359Z
+UID:es685iqdmnj678p002956277ki@google.com
+CREATED:20210630T013844Z
+DESCRIPTION:
+LAST-MODIFIED:20220208T041503Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Fitness
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:AA71AFD9-0BDA-4B78-ADB7-83056D4D8F65
+UID:AA71AFD9-0BDA-4B78-ADB7-83056D4D8F65
+ATTACH;VALUE=URI:Chord
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20220203T143935Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210926
+DTEND;VALUE=DATE:20210927
+RRULE:FREQ=WEEKLY;UNTIL=20220205;BYDAY=SU
+DTSTAMP:20220221T003359Z
+UID:he4htufcdfa768e1res6l87lu1@google.com
+CREATED:20210630T013803Z
+DESCRIPTION:John Maxwell\nMindset Mentor
+LAST-MODIFIED:20220208T041509Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Leadership
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:94964AA5-7491-4D69-8C61-7073DA5133C5
+UID:94964AA5-7491-4D69-8C61-7073DA5133C5
+ATTACH;VALUE=URI:Chord
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20220108T161155Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220301T193000Z
+DTEND:20220301T200000Z
+DTSTAMP:20220221T003359Z
+UID:5mcaumhqg3e5qc4lt4eahv5u00@google.com
+CREATED:20220208T140657Z
+DESCRIPTION:
+LAST-MODIFIED:20220208T140657Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nutrition class
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220209T150000
+DTEND;TZID=America/New_York:20220209T180000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:c90l4lpu3fg40s1ortai7t14rh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+RECURRENCE-ID;TZID=America/New_York:20220209T110000
+CREATED:20220107T050325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220209T044315Z
+LOCATION:
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Code Work
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220209T120000
+DTEND;TZID=America/New_York:20220209T130000
+DTSTAMP:20220221T003359Z
+UID:7c9vf42lk9hdiq92h6mt3aag19@google.com
+RECURRENCE-ID;TZID=America/New_York:20220209T060000
+CREATED:20220126T054813Z
+DESCRIPTION:
+LAST-MODIFIED:20220209T053138Z
+LOCATION:Northeast Pool\, 1100 Northeast 14th Street\, Gainesville\, FL 326
+ 01\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Masters Swimming
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220210T220000Z
+DTEND:20220210T224500Z
+DTSTAMP:20220221T003359Z
+UID:5kk21s42njrrkdvhppvs35ebqb@google.com
+CREATED:20220207T212211Z
+DESCRIPTION:
+LAST-MODIFIED:20220210T053538Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Physical Test w Brady
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220211T104500
+DTEND;TZID=America/New_York:20220211T124500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:c90l4lpu3fg40s1ortai7t14rh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+RECURRENCE-ID;TZID=America/New_York:20220211T110000
+CREATED:20220107T050325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220211T154340Z
+LOCATION:
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Code Work
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220211T130000Z
+DTEND:20220211T140000Z
+DTSTAMP:20220221T003359Z
+UID:3hcht2q1ppoanqokh7i6bn79q0@google.com
+CREATED:20220211T154413Z
+DESCRIPTION:
+LAST-MODIFIED:20220211T154413Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fitness - Ride
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220211T230000Z
+DTEND:20220212T011500Z
+DTSTAMP:20220221T003359Z
+UID:iv0of5dlrnh3fci5ffrjdo1adc@google.com
+CREATED:20220212T013036Z
+DESCRIPTION:
+LAST-MODIFIED:20220212T013036Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Drive to Orlando
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210201T160000Z
+DTEND:20210201T163000Z
+DTSTAMP:20220221T003359Z
+UID:60mqv772unrus6rhlafhbpucal@google.com
+CREATED:20210201T050115Z
+DESCRIPTION:
+LAST-MODIFIED:20220213T232503Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Call w Trish
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220111T063000
+DTEND;TZID=America/New_York:20220111T080000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220215T045959Z;BYDAY=TH,TU
+EXDATE;TZID=America/New_York:20220111T063000
+EXDATE;TZID=America/New_York:20220113T063000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0la0bsme8rk3qs759sb3u29k03_R20220111T113000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=camero
+ n.keenefl@gmail.com;X-NUM-GUESTS=0:mailto:cameron.keenefl@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/kvz-xgif-sdq
+CREATED:20200831T221432Z
+DESCRIPTION:Phase II: Lactate threshold\, Running economy (current)\nPhase 
+ III: VO2 Max\, lactate threshold (July 23)\nPhase IV: All 3 + finishing kic
+ k. (August 24)\nRace: September 26\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this sectio
+ n of the description.\n\nThis event has a video call.\nJoin: https://meet.g
+ oogle.com/kvz-xgif-sdq\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220214T010048Z
+LOCATION:James G. Pressly Stadium\, 325 Woodlawn Dr\, Gainesville\, FL 3260
+ 8\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TriGators: Track Workout
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;ACKNOWLEDGED=20210617T114618Z:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:756F8FBF-7859-4F48-BD6A-C7DD5481665E
+UID:756F8FBF-7859-4F48-BD6A-C7DD5481665E
+ACKNOWLEDGED:20210629T100001Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220215T063000
+DTEND;TZID=America/New_York:20220215T080000
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=TH,TU
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0la0bsme8rk3qs759sb3u29k03_R20220215T113000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=camero
+ n.keenefl@gmail.com;X-NUM-GUESTS=0:mailto:cameron.keenefl@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/kvz-xgif-sdq
+CREATED:20200831T221432Z
+DESCRIPTION:Phase II: Lactate threshold\, Running economy (current)\nPhase 
+ III: VO2 Max\, lactate threshold (July 23)\nPhase IV: All 3 + finishing kic
+ k. (August 24)\nRace: September 26\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this sectio
+ n of the description.\n\nThis event has a video call.\nJoin: https://meet.g
+ oogle.com/kvz-xgif-sdq\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220214T010048Z
+LOCATION:James G. Pressly Stadium\, 325 Woodlawn Dr\, Gainesville\, FL 3260
+ 8\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fitness - TriGators: Track Workout
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;ACKNOWLEDGED=20210617T114618Z:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:756F8FBF-7859-4F48-BD6A-C7DD5481665E
+UID:756F8FBF-7859-4F48-BD6A-C7DD5481665E
+ACKNOWLEDGED:20210629T100001Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220214T093500
+DTEND;TZID=America/New_York:20220214T110500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0h5bv6huur6jv1g3staq0mogkn_R20220107T143500@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/wqg-tfam-hit
+RECURRENCE-ID;TZID=America/New_York:20220214T093500
+CREATED:20220107T043813Z
+DESCRIPTION:TUR L007\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/wqg-
+ tfam-hit\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220214T010149Z
+LOCATION:Turlington Hall\, 330 Newell Dr\, Gainesville\, FL 32611\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:School - EXAM CIS4301 - Info/Database Systems
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220216T093500
+DTEND;TZID=America/New_York:20220216T110500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0h5bv6huur6jv1g3staq0mogkn_R20220107T143500@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/wqg-tfam-hit
+RECURRENCE-ID;TZID=America/New_York:20220216T093500
+CREATED:20220107T043813Z
+DESCRIPTION:TUR L007\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/wqg-
+ tfam-hit\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220214T010159Z
+LOCATION:Turlington Hall\, 330 Newell Dr\, Gainesville\, FL 32611\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:School - Exam - CIS4301 - Info/Database Systems
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220112T110000
+DTEND;TZID=America/New_York:20220112T130000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220214T045959Z;BYDAY=FR,MO,WE
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:c90l4lpu3fg40s1ortai7t14rh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+CREATED:20220107T050325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220214T010225Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Code Work
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:0D5260F7-54DC-465E-A852-F1933913F946
+UID:0D5260F7-54DC-465E-A852-F1933913F946
+ACKNOWLEDGED:20220114T154024Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220214T110000
+DTEND;TZID=America/New_York:20220214T130000
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=FR,MO,WE
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:c90l4lpu3fg40s1ortai7t14rh_R20220214T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+CREATED:20220107T050325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220214T010225Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Work - BATS
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:0D5260F7-54DC-465E-A852-F1933913F946
+UID:0D5260F7-54DC-465E-A852-F1933913F946
+ACKNOWLEDGED:20220114T154024Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220111T130000
+DTEND;TZID=America/New_York:20220111T150000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220215T045959Z;BYDAY=TH,TU
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:39aiv66ko7tq2cnfts187un9ko@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+CREATED:20220111T182720Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220214T010238Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Code Work
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:93EC72FE-53A6-4759-9733-2997A52B382A
+UID:93EC72FE-53A6-4759-9733-2997A52B382A
+ACKNOWLEDGED:20220113T173455Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220215T130000
+DTEND;TZID=America/New_York:20220215T150000
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=TH,TU
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:39aiv66ko7tq2cnfts187un9ko_R20220215T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+CREATED:20220111T182720Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220214T010238Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Work - BATS
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:93EC72FE-53A6-4759-9733-2997A52B382A
+UID:93EC72FE-53A6-4759-9733-2997A52B382A
+ACKNOWLEDGED:20220113T173455Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220214T150000
+DTEND;TZID=America/New_York:20220214T170000
+DTSTAMP:20220221T003359Z
+UID:1tiegilc0lhnjm34spbpnijrke_R20220112T200000@google.com
+RECURRENCE-ID;TZID=America/New_York:20220214T150000
+CREATED:20220107T213208Z
+DESCRIPTION:<a href="https://ufl.zoom.us/j/8678609605?pwd=cTVqbFQxODNXd2NQM
+ HFYOURKVkN1Zz09" id="ow24466" __is_owner="true">https://ufl.zoom.us/j/86786
+ 09605?pwd=cTVqbFQxODNXd2NQMHFYOURKVkN1Zz09</a><br>Password: MS
+LAST-MODIFIED:20220214T010919Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CIS4301 - Office Hours
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220110T173000
+DTEND;TZID=America/New_York:20220110T193000
+RRULE:FREQ=WEEKLY;UNTIL=20220214T045959Z
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:v3l1j7o2h5pmbhi9aqogd03gj4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=camero
+ n.keenefl@gmail.com;X-NUM-GUESTS=0:mailto:cameron.keenefl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/iwp-udmt-jqg
+CREATED:20220107T142734Z
+DESCRIPTION:Time subject to change\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this sectio
+ n of the description.\n\nThis event has a video call.\nJoin: https://meet.g
+ oogle.com/iwp-udmt-jqg\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220214T011024Z
+LOCATION:Florida Ballpark at Alfred A. McKethan Field\, University of Flori
+ da\, 2800 Citrus Rd\, Gainesville\, FL 32608\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Trigators: Easy Run
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/iwp-udmt-jqg
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:270B2C5B-6D90-428C-B8ED-5E3C9656FC54
+UID:270B2C5B-6D90-428C-B8ED-5E3C9656FC54
+ACKNOWLEDGED:20220201T002005Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220214T170000
+DTEND;TZID=America/New_York:20220214T190000
+RRULE:FREQ=WEEKLY
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:asii448snk6kagotahbs7ar3qj@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=camero
+ n.keenefl@gmail.com;X-NUM-GUESTS=0:mailto:cameron.keenefl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/iwp-udmt-jqg
+CREATED:20220107T142734Z
+DESCRIPTION:Time subject to change\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this sectio
+ n of the description.\n\nThis event has a video call.\nJoin: https://meet.g
+ oogle.com/iwp-udmt-jqg\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220214T113932Z
+LOCATION:Florida Ballpark at Alfred A. McKethan Field\, University of Flori
+ da\, 2800 Citrus Rd\, Gainesville\, FL 32608\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Fitness - Trigators: Easy Run
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/iwp-udmt-jqg
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:270B2C5B-6D90-428C-B8ED-5E3C9656FC54
+UID:270B2C5B-6D90-428C-B8ED-5E3C9656FC54
+ACKNOWLEDGED:20220201T002005Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220215T220000Z
+DTEND:20220215T224500Z
+DTSTAMP:20220221T003359Z
+UID:um3ebmis7eog9bku2au60qvguk@google.com
+CREATED:20220214T184844Z
+DESCRIPTION:
+LAST-MODIFIED:20220214T184844Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work - Spanish consulate appointment
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220128T060000
+DTEND;TZID=America/New_York:20220128T070000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220214T045959Z;BYDAY=FR,MO,WE
+EXDATE;TZID=America/New_York:20220207T060000
+DTSTAMP:20220221T003359Z
+UID:7c9vf42lk9hdiq92h6mt3aag19@google.com
+CREATED:20220126T054813Z
+DESCRIPTION:
+LAST-MODIFIED:20220214T205628Z
+LOCATION:Northeast Pool\, 1100 Northeast 14th Street\, Gainesville\, FL 326
+ 01\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Masters Swimming
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220214T160000
+DTEND;TZID=America/New_York:20220214T170000
+DTSTAMP:20220221T003359Z
+UID:7c9vf42lk9hdiq92h6mt3aag19_R20220214T110000@google.com
+RECURRENCE-ID;TZID=America/New_York:20220214T060000
+CREATED:20220126T054813Z
+DESCRIPTION:
+LAST-MODIFIED:20220214T205628Z
+LOCATION:Northeast Pool\, 1100 Northeast 14th Street\, Gainesville\, FL 326
+ 01\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Fitness - Masters Swimming
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220214T060000
+DTEND;TZID=America/New_York:20220214T070000
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=FR,MO,WE
+DTSTAMP:20220221T003359Z
+UID:7c9vf42lk9hdiq92h6mt3aag19_R20220214T110000@google.com
+CREATED:20220126T054813Z
+DESCRIPTION:
+LAST-MODIFIED:20220214T205628Z
+LOCATION:Northeast Pool\, 1100 Northeast 14th Street\, Gainesville\, FL 326
+ 01\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fitness - Masters Swimming
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220110T080000
+DTEND;TZID=America/New_York:20220110T090000
+EXDATE;TZID=America/New_York:20220111T080000
+RRULE:FREQ=WEEKLY;UNTIL=20220214T045959Z;BYDAY=FR,MO,TH,TU,WE
+EXDATE;TZID=America/New_York:20220207T080000
+EXDATE;TZID=America/New_York:20220211T080000
+DTSTAMP:20220221T003359Z
+UID:68m421flpek5nreupijtgmvt91@google.com
+CREATED:20220107T050115Z
+DESCRIPTION:
+LAST-MODIFIED:20220214T205643Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220214T080000
+DTEND;TZID=America/New_York:20220214T090000
+RRULE:FREQ=WEEKLY;BYDAY=FR,MO,TH,TU,WE
+EXDATE;TZID=America/New_York:20220216T080000
+DTSTAMP:20220221T003359Z
+UID:68m421flpek5nreupijtgmvt91_R20220214T130000@google.com
+CREATED:20220107T050115Z
+DESCRIPTION:
+LAST-MODIFIED:20220214T205643Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work - Study
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220214T193000
+DTEND;TZID=America/New_York:20220214T213000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:c90l4lpu3fg40s1ortai7t14rh_R20220214T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+RECURRENCE-ID;TZID=America/New_York:20220214T110000
+CREATED:20220107T050325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220215T001249Z
+LOCATION:
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Work - BATS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220217T143000Z
+DTEND:20220217T153000Z
+DTSTAMP:20220221T003359Z
+UID:m5srfh6au8fifgttradas14p98@google.com
+CREATED:20220215T001516Z
+DESCRIPTION:
+LAST-MODIFIED:20220215T001516Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work - Brady
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220215T063000
+DTEND;TZID=America/New_York:20220215T090000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0la0bsme8rk3qs759sb3u29k03_R20220215T113000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=camero
+ n.keenefl@gmail.com;X-NUM-GUESTS=0:mailto:cameron.keenefl@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/kvz-xgif-sdq
+RECURRENCE-ID;TZID=America/New_York:20220215T063000
+CREATED:20200831T221432Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/kvz-xgif-sdq\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220215T043103Z
+LOCATION:James G. Pressly Stadium\, 325 Woodlawn Dr\, Gainesville\, FL 3260
+ 8\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fitness - TriGators: Track Workout + Bike
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220215T111500
+DTEND;TZID=America/New_York:20220215T121500
+DTSTAMP:20220221T003359Z
+UID:68m421flpek5nreupijtgmvt91_R20220214T130000@google.com
+RECURRENCE-ID;TZID=America/New_York:20220215T080000
+CREATED:20220107T050115Z
+DESCRIPTION:
+LAST-MODIFIED:20220215T170904Z
+LOCATION:
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Work - Study
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220215T180000Z
+DTEND:20220215T191500Z
+DTSTAMP:20220221T003359Z
+UID:6letfld5i3vlcqrrpugv9gi9ur@google.com
+CREATED:20220215T043158Z
+DESCRIPTION:
+LAST-MODIFIED:20220215T172546Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Fitness - Swim
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220215T143000
+DTEND;TZID=America/New_York:20220215T163000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:39aiv66ko7tq2cnfts187un9ko_R20220215T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+RECURRENCE-ID;TZID=America/New_York:20220215T130000
+CREATED:20220111T182720Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220215T172547Z
+LOCATION:
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Work - BATS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220216T111500
+DTEND;TZID=America/New_York:20220216T131500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:c90l4lpu3fg40s1ortai7t14rh_R20220214T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+RECURRENCE-ID;TZID=America/New_York:20220216T110000
+CREATED:20220107T050325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220216T142100Z
+LOCATION:
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Work - BATS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T204500Z
+DTEND:20220216T231500Z
+DTSTAMP:20220221T003359Z
+UID:3bhrhpbk0je9u7fpja8slrkadd@google.com
+CREATED:20220215T043008Z
+DESCRIPTION:
+LAST-MODIFIED:20220216T204046Z
+LOCATION:
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Fitness - Ride and Tom Run
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220216T141500
+DTEND;TZID=America/New_York:20220216T151500
+DTSTAMP:20220221T003359Z
+UID:7c9vf42lk9hdiq92h6mt3aag19_R20220214T110000@google.com
+RECURRENCE-ID;TZID=America/New_York:20220216T060000
+CREATED:20220126T054813Z
+DESCRIPTION:
+LAST-MODIFIED:20220216T204057Z
+LOCATION:Northeast Pool\, 1100 Northeast 14th Street\, Gainesville\, FL 326
+ 01\, USA
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Fitness - Masters Swimming
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220217T080000
+DTEND;TZID=America/New_York:20220217T090000
+DTSTAMP:20220221T003359Z
+UID:68m421flpek5nreupijtgmvt91_R20220214T130000@google.com
+RECURRENCE-ID;TZID=America/New_York:20220217T080000
+CREATED:20220107T050115Z
+DESCRIPTION:Why\nHow\nWhat
+LAST-MODIFIED:20220217T030300Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work - 1000PRO Recording
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220216T183000
+DTEND;TZID=America/New_York:20220216T193000
+DTSTAMP:20220221T003359Z
+UID:6q3dopc4aa52uhq0qechlnh3vv_R20211006T223000@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/kib-uesu-wdz
+RECURRENCE-ID;TZID=America/New_York:20220216T183000
+CREATED:20200828T164037Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/kib-uesu-wdz\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220217T030712Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Social - ACE GBM 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220217T223000Z
+DTEND:20220217T233000Z
+DTSTAMP:20220221T003359Z
+UID:r9c27fiqsvemrrocm0kl2vbmno@google.com
+CREATED:20220217T050901Z
+DESCRIPTION:
+LAST-MODIFIED:20220218T043334Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Fitness - swim
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220217T234500Z
+DTEND:20220218T004500Z
+DTSTAMP:20220221T003359Z
+UID:408g9m9gjbi2muka2i9n4sbvdt@google.com
+CREATED:20220217T195553Z
+DESCRIPTION:
+LAST-MODIFIED:20220218T043334Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Fitness gym
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220110T210000
+DTEND;TZID=America/New_York:20220110T213000
+RRULE:FREQ=WEEKLY;UNTIL=20220217T045959Z;BYDAY=FR,MO,TH,TU,WE
+DTSTAMP:20220221T003359Z
+UID:2162541te28bk794tcr1s4u31c@google.com
+CREATED:20220107T052208Z
+DESCRIPTION:Family call list<br><ol><li>Dad<br></li><li>Jerry<br></li><li>T
+ ete<br></li><li>Trish<br></li><li>Lela<br></li><li>Emily<br></li><li>Marcos
+ <br></li><li>Juan<br></li><li>Santi<br></li><li>Adrian<br></li><li>Dagam**<
+ br></li><li>Matthew<br></li></ol>Friend call list<br><ol style=""><li style
+ ="">Garrett<br></li><li style="">Parker<br></li><li style="">Cameron<br></l
+ i><li style="">Brody<br></li><li style="">Kalista<br></li><li style="">Mia<
+ br></li><li style="">Eva<br></li><li style="">Cole<br></li><li style="">Eva
+ n<br></li><li style="">Narottama<br></li><li style="">Mia<br></li><li style
+ ="">David<br></li></ol>
+LAST-MODIFIED:20220218T043407Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Calls
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:DA638B69-C270-47EE-91E3-F018D5EEB6EC
+UID:DA638B69-C270-47EE-91E3-F018D5EEB6EC
+ACKNOWLEDGED:20220203T015219Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220217T231500
+DTEND;TZID=America/New_York:20220217T234500
+DTSTAMP:20220221T003359Z
+UID:2162541te28bk794tcr1s4u31c_R20220218T020000@google.com
+RECURRENCE-ID;TZID=America/New_York:20220217T210000
+CREATED:20220107T052208Z
+DESCRIPTION:Family call list<br><ol><li>Dad<br></li><li>Jerry<br></li><li>T
+ ete<br></li><li>Trish<br></li><li>Lela<br></li><li>Emily<br></li><li>Marcos
+ <br></li><li>Juan<br></li><li>Santi<br></li><li>Adrian<br></li><li>Dagam**<
+ br></li><li>Matthew<br></li></ol>Friend call list<br><ol style=""><li style
+ ="">Garrett<br></li><li style="">Parker<br></li><li style="">Cameron<br></l
+ i><li style="">Brody<br></li><li style="">Kalista<br></li><li style="">Mia<
+ br></li><li style="">Eva<br></li><li style="">Cole<br></li><li style="">Eva
+ n<br></li><li style="">Narottama<br></li><li style="">Mia<br></li><li style
+ ="">David<br></li></ol>
+LAST-MODIFIED:20220218T043407Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Social - Calls
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220217T210000
+DTEND;TZID=America/New_York:20220217T213000
+RRULE:FREQ=WEEKLY;BYDAY=FR,MO,TH,TU,WE
+DTSTAMP:20220221T003359Z
+UID:2162541te28bk794tcr1s4u31c_R20220218T020000@google.com
+CREATED:20220107T052208Z
+DESCRIPTION:Family call list<br><ol><li>Dad<br></li><li>Jerry<br></li><li>T
+ ete<br></li><li>Trish<br></li><li>Lela<br></li><li>Emily<br></li><li>Marcos
+ <br></li><li>Juan<br></li><li>Santi<br></li><li>Adrian<br></li><li>Dagam**<
+ br></li><li>Matthew<br></li></ol>Friend call list<br><ol style=""><li style
+ ="">Garrett<br></li><li style="">Parker<br></li><li style="">Cameron<br></l
+ i><li style="">Brody<br></li><li style="">Kalista<br></li><li style="">Mia<
+ br></li><li style="">Eva<br></li><li style="">Cole<br></li><li style="">Eva
+ n<br></li><li style="">Narottama<br></li><li style="">Mia<br></li><li style
+ ="">David<br></li></ol>
+LAST-MODIFIED:20220218T043407Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Social - Calls
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:DA638B69-C270-47EE-91E3-F018D5EEB6EC
+UID:DA638B69-C270-47EE-91E3-F018D5EEB6EC
+ACKNOWLEDGED:20220203T015219Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220114T181500
+DTEND;TZID=America/New_York:20220114T194500
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220218T045959Z;BYDAY=FR
+EXDATE;TZID=America/New_York:20220211T181500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:ngdukv01fsoahsph1lbj612ejg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=camero
+ n.keenefl@gmail.com;X-NUM-GUESTS=0:mailto:cameron.keenefl@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/baj-zfna-bge
+CREATED:20210111T145741Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/baj-zfna-bge\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220218T044929Z
+LOCATION:Florida Pool\, 224 Fletcher Dr\, Gainesville\, FL 32608\, USA
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:TriGators: Swim
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;ACKNOWLEDGED=20210621T234509Z:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:14970412-9FBD-429A-AC9C-80153396CE5C
+UID:14970412-9FBD-429A-AC9C-80153396CE5C
+ACKNOWLEDGED:20211210T230711Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220218T181500
+DTEND;TZID=America/New_York:20220218T194500
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=FR
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:ngdukv01fsoahsph1lbj612ejg_R20220218T231500@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ nk22eragon@gmail.com;X-NUM-GUESTS=0:mailto:link22eragon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=camero
+ n.keenefl@gmail.com;X-NUM-GUESTS=0:mailto:cameron.keenefl@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/baj-zfna-bge
+CREATED:20210111T145741Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/baj-zfna-bge\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220218T044929Z
+LOCATION:Florida Pool\, 224 Fletcher Dr\, Gainesville\, FL 32608\, USA
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Fitness : Swim
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;ACKNOWLEDGED=20210621T234509Z:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:14970412-9FBD-429A-AC9C-80153396CE5C
+UID:14970412-9FBD-429A-AC9C-80153396CE5C
+ACKNOWLEDGED:20211210T230711Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220218T110000
+DTEND;TZID=America/New_York:20220218T120000
+DTSTAMP:20220221T003359Z
+UID:68m421flpek5nreupijtgmvt91_R20220214T130000@google.com
+RECURRENCE-ID;TZID=America/New_York:20220214T080000
+CREATED:20220107T050115Z
+DESCRIPTION:
+LAST-MODIFIED:20220218T154523Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Work - BEATS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220218T093500
+DTEND;TZID=America/New_York:20220218T110000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:0h5bv6huur6jv1g3staq0mogkn_R20220107T143500@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/wqg-tfam-hit
+RECURRENCE-ID;TZID=America/New_York:20220218T093500
+CREATED:20220107T043813Z
+DESCRIPTION:TUR L007\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/wqg-
+ tfam-hit\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220218T154601Z
+LOCATION:Turlington Hall\, 330 Newell Dr\, Gainesville\, FL 32611\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work - CIS4301 - Info/Database Systems
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220218T083000
+DTEND;TZID=America/New_York:20220218T093000
+DTSTAMP:20220221T003359Z
+UID:68m421flpek5nreupijtgmvt91_R20220214T130000@google.com
+RECURRENCE-ID;TZID=America/New_York:20220218T080000
+CREATED:20220107T050115Z
+DESCRIPTION:
+LAST-MODIFIED:20220218T154615Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Work - 1000P
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220105T135500
+DTEND;TZID=America/New_York:20220105T144500
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220218T045959Z;BYDAY=FR,MO,WE
+EXDATE;TZID=America/New_York:20220216T135500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:2n1dpei04oe9tfmrnhguai63d4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/bir-iyot-nhq
+CREATED:20220107T051148Z
+DESCRIPTION:WM0100\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descrip
+ tion.\n\nThis event has a video call.\nJoin: https://meet.google.com/bir-iy
+ ot-nhq\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220218T162226Z
+LOCATION:Williamson Hall\, Gainesville\, FL 32603\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STA3032 - Eng Stats
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/bir-iyot-nhq
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:FCDAC608-7205-4E2E-B36B-F9D16C4E95C3
+UID:FCDAC608-7205-4E2E-B36B-F9D16C4E95C3
+ACKNOWLEDGED:20220119T183253Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220316T135500
+DTEND;TZID=America/New_York:20220316T144500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:2n1dpei04oe9tfmrnhguai63d4_R20220218T185500@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/bir-iyot-nhq
+RECURRENCE-ID;TZID=America/New_York:20220316T135500
+CREATED:20220107T051148Z
+DESCRIPTION:WM0100\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descrip
+ tion.\n\nThis event has a video call.\nJoin: https://meet.google.com/bir-iy
+ ot-nhq\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220218T162226Z
+LOCATION:Williamson Hall\, Gainesville\, FL 32603\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work - STA3032 - Eng Stats
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/bir-iyot-nhq
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220420T135500
+DTEND;TZID=America/New_York:20220420T144500
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:2n1dpei04oe9tfmrnhguai63d4_R20220218T185500@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/bir-iyot-nhq
+RECURRENCE-ID;TZID=America/New_York:20220420T135500
+CREATED:20220107T051148Z
+DESCRIPTION:WM0100\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descrip
+ tion.\n\nThis event has a video call.\nJoin: https://meet.google.com/bir-iy
+ ot-nhq\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220218T162226Z
+LOCATION:Williamson Hall\, Gainesville\, FL 32603\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work - STA3032 - Eng Stats
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/bir-iyot-nhq
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220218T135500
+DTEND;TZID=America/New_York:20220218T144500
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220422T035959Z;BYDAY=FR,MO,WE
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:2n1dpei04oe9tfmrnhguai63d4_R20220218T185500@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/bir-iyot-nhq
+CREATED:20220107T051148Z
+DESCRIPTION:WM0100\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descrip
+ tion.\n\nThis event has a video call.\nJoin: https://meet.google.com/bir-iy
+ ot-nhq\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220218T162226Z
+LOCATION:Williamson Hall\, Gainesville\, FL 32603\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work - STA3032 - Eng Stats
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-CONFERENCE:https://meet.google.com/bir-iyot-nhq
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:FCDAC608-7205-4E2E-B36B-F9D16C4E95C3
+UID:FCDAC608-7205-4E2E-B36B-F9D16C4E95C3
+ACKNOWLEDGED:20220119T183253Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220106T150000
+DTEND;TZID=America/New_York:20220106T155000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220217T045959Z;BYDAY=TH
+EXDATE;TZID=America/New_York:20220210T150000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:3tuvgpabn7vbn77dro4cmv7q31@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/cos-mcww-gmx
+CREATED:20220107T043337Z
+DESCRIPTION:Room: Turlington 2350\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section
+  of the description.\n\nThis event has a video call.\nJoin: https://meet.go
+ ogle.com/cos-mcww-gmx\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220218T162238Z
+LOCATION:Turlington Hall\, 330 Newell Dr\, Gainesville\, FL 32611\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:AEC3410 - Innovation Thru Leadership
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220217T150000
+DTEND;TZID=America/New_York:20220217T155000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220421T035959Z;BYDAY=TH
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:3tuvgpabn7vbn77dro4cmv7q31_R20220217T200000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/cos-mcww-gmx
+CREATED:20220107T043337Z
+DESCRIPTION:Room: Turlington 2350\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section
+  of the description.\n\nThis event has a video call.\nJoin: https://meet.go
+ ogle.com/cos-mcww-gmx\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220218T162238Z
+LOCATION:Turlington Hall\, 330 Newell Dr\, Gainesville\, FL 32611\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Work - AEC3410 - Innovation Thru Leadership
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220219T150000
+DTEND;TZID=America/New_York:20220219T160000
+DTSTAMP:20220221T003359Z
+UID:u9tuhq3uj30riqn5ifrhv8bjl6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/hvr-byvj-cga
+RECURRENCE-ID;TZID=America/New_York:20220219T150000
+CREATED:20200909T202933Z
+DESCRIPTION:Family call list<br><ol style=""><li>Dad<br></li><li>Jerry<br><
+ /li><li>Tete<br></li><li>Trish<br></li><li>Lela<br></li><li>Emily<br></li><
+ li>Marcos<br></li><li>Juan<br></li><li>Santi<br></li><li>Adrian<br></li><li
+ >Dagam**<br></li><li>Matthew</li></ol><br>Friend call list<ol style=""><li>
+ Garrett</li><li>Parker<br></li><li>Cameron<br></li><li>Brody<br></li><li>Ka
+ lista<br></li><li>Mia<br></li><li>Eva<br></li><li>Cole<br></li><li>Evan<br>
+ </li><li>Narottama<br></li><li>Mia<br></li><li>David<br></li></ol>\n\n-::~:
+ ~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ :~:~::-\nDo not edit this section of the description.\n\nThis event has a v
+ ideo call.\nJoin: https://meet.google.com/hvr-byvj-cga\n-::~:~::~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220218T162252Z
+LOCATION:
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Social - Calls
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T224500Z
+DTEND:20220218T231500Z
+DTSTAMP:20220221T003359Z
+UID:nahc7vbeaanpu5bkla71j6mpr0@google.com
+CREATED:20220217T133949Z
+DESCRIPTION:
+LAST-MODIFIED:20220218T172156Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Work - Packet pickup
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T204500Z
+DTEND:20220218T214500Z
+DTSTAMP:20220221T003359Z
+UID:38eto1ugno37a61gp53muef5e4@google.com
+CREATED:20220218T045336Z
+DESCRIPTION:
+LAST-MODIFIED:20220218T185444Z
+LOCATION:Super Cool Bike Shop\, 3460 W University Ave\, Gainesville\, FL 32
+ 607\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Work - Bike shop
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220218T123000
+DTEND;TZID=America/New_York:20220218T143000
+DTSTAMP:20220221T003359Z
+ORGANIZER;CN=charlesrichardsonusa@gmail.com:mailto:charlesrichardsonusa@gma
+ il.com
+UID:c90l4lpu3fg40s1ortai7t14rh_R20220214T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chfam420@gmail.com;X-NUM-GUESTS=0:mailto:richfam420@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ binsonlauren01@gmail.com;X-NUM-GUESTS=0:mailto:robinsonlauren01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charle
+ srichardsonusa@gmail.com;X-NUM-GUESTS=0:mailto:charlesrichardsonusa@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/pkv-krxt-mkm
+RECURRENCE-ID;TZID=America/New_York:20220218T110000
+CREATED:20220107T050325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/pkv-krxt-mkm\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20220218T191804Z
+LOCATION:
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Work - BATS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220218T194500
+DTEND;TZID=America/New_York:20220218T204500
+DTSTAMP:20220221T003359Z
+UID:7c9vf42lk9hdiq92h6mt3aag19_R20220214T110000@google.com
+RECURRENCE-ID;TZID=America/New_York:20220218T060000
+CREATED:20220126T054813Z
+DESCRIPTION:
+LAST-MODIFIED:20220218T203349Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Fitness - Ride
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T194500Z
+DTEND:20220218T203000Z
+DTSTAMP:20220221T003359Z
+UID:7s6kdgn0bt4shq9h80h04rfkci@google.com
+CREATED:20220218T195900Z
+DESCRIPTION:
+LAST-MODIFIED:20220218T203407Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work - Digital Health Notes
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T120000Z
+DTEND:20220220T143000Z
+DTSTAMP:20220221T003359Z
+UID:4a8jmdv2o7a9cf3tf5onqgqg13@google.com
+CREATED:20220221T001442Z
+DESCRIPTION:
+LAST-MODIFIED:20220221T001442Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work - Volunteering
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T150000Z
+DTEND:20220220T161500Z
+DTSTAMP:20220221T003359Z
+UID:2ubslq9kdcs1bmbquio75akj5i@google.com
+CREATED:20220221T001530Z
+DESCRIPTION:
+LAST-MODIFIED:20220221T001530Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fitness - Run
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T161500Z
+DTEND:20220220T164500Z
+DTSTAMP:20220221T003359Z
+UID:0lfoorva8ij38frnjf3bfkftpi@google.com
+CREATED:20220221T001615Z
+DESCRIPTION:
+LAST-MODIFIED:20220221T001615Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rest
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T143000Z
+DTEND:20220220T150000Z
+DTSTAMP:20220221T003359Z
+UID:2to2seod1rr0obtutld78v40ht@google.com
+CREATED:20220221T001621Z
+DESCRIPTION:
+LAST-MODIFIED:20220221T001621Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Social
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T210000Z
+DTEND:20220220T220000Z
+DTSTAMP:20220221T003359Z
+UID:7la4tvt0u08ue7tinu91hka7dl@google.com
+CREATED:20220221T001646Z
+DESCRIPTION:
+LAST-MODIFIED:20220221T001652Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Rest
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T170000Z
+DTEND:20220220T210000Z
+DTSTAMP:20220221T003359Z
+UID:4pl4jlppndm4f8iovv62ihlb4a@google.com
+CREATED:20220221T001551Z
+DESCRIPTION:
+LAST-MODIFIED:20220221T001709Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work - Box Assembly
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T220000Z
+DTEND:20220221T023000Z
+DTSTAMP:20220221T003359Z
+UID:7oi2pvep63vt2h3uff7rp62e1c@google.com
+CREATED:20220221T001750Z
+DESCRIPTION:
+LAST-MODIFIED:20220221T001751Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work - Assignments
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

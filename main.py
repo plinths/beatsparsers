@@ -10,6 +10,10 @@ import sys
 from xml.etree import ElementTree
 from collections import Counter, OrderedDict
 
+from icalendar import Calendar, Event
+from datetime import datetime
+from pytz import UTC   # timezone
+
 __version__ = '1.3'
 
 RECORD_FIELDS = OrderedDict((
@@ -124,7 +128,7 @@ class HealthDataExtractor(object):
 
     def report(self, msg, end='\n'):
         if self.verbose:
-            print(msg, end=end)
+            print(msg, end = end)
             sys.stdout.flush()
 
     def count_tags_and_fields(self):
@@ -213,10 +217,26 @@ class HealthDataExtractor(object):
 
 
 if __name__ == '__main__':
-    #if len(sys.argv) != 2:
-    #    print('USAGE: python main.py /path/to/export.xml',
-     #         file=sys.stderr)
-     #   sys.exit(1)
-    data = HealthDataExtractor("cameron_keene_health_data.xml")#enter file to be parsed within quotes here
-    data.report_stats()
-    data.extract()
+
+    #calendar data parser
+    g = open('charlesrichardsonusagmail.com.ics', 'rb')
+gcal = Calendar.from_ical(g.read())
+for component in gcal.walk():
+    if component.name == "VEVENT":
+        if component.get('summary') == 'Rest':
+            print(component.get('summary'))
+            start = (component.get('dtstart'))
+            print(start.dt)
+            end = (component.get('dtend'))
+            print(end.dt)
+            stamp = (component.get('dtstamp'))
+            print(stamp.dt)
+        g.close()
+
+    #health data parser
+
+    #data = HealthDataExtractor("cameron_keene_health_data.xml")#enter file to be parsed within quotes here
+    #data.report_stats()
+    #data.extract()
+
+
