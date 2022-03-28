@@ -6,21 +6,33 @@ Licence: MIT
 import os
 import re
 import sys
+import random
 
 from xml.etree import ElementTree
 from collections import Counter, OrderedDict
 
+# install icalender using following command: pip3 install icalendar
+from icalendar import Calendar, Event
+from datetime import datetime
+from pytz import UTC   # timezone
+
+from csv_ical import Convert
+
+
 __version__ = '1.3'
 
+# Randomly generate a float for deviceID, in case it is missing
+RAND = str(random.random())
+
 RECORD_FIELDS = OrderedDict((
-    ('sourceName', 's'),
-    ('sourceVersion', 's'),
+    #('sourceName', 's'),
+    #('sourceVersion', 's'),
     ('device', 's'),
-    ('type', 's'),
-    ('unit', 's'),
-    ('creationDate', 'd'),
+    #('type', 's'),
+    #('unit', 's'),
+    #('creationDate', 'd'),
     ('startDate', 'd'),
-    ('endDate', 'd'),
+    #('endDate', 'd'),
     ('value', 'n'),
 ))
 
@@ -57,11 +69,11 @@ FIELDS = {
     'Workout': WORKOUT_FIELDS,
 }
 
-
 PREFIX_RE = re.compile('^HK.*TypeIdentifier(.+)$')
 ABBREVIATE = True
-VERBOSE = True
+VERBOSE = False
 
+1
 def format_freqs(counter):
     """
     Format a counter object for display.
@@ -73,14 +85,14 @@ def format_freqs(counter):
 def format_value(value, datatype):
     """
     Format a value for a CSV file, escaping double quotes and backslashes.
-    None maps to empty.
+    None maps to randomly generated float in interval [0,1], converted to a string.
     datatype should be
         's' for string (escaped)
         'n' for number
         'd' for datetime
     """
     if value is None:
-        return ''
+        return RAND
     elif datatype == 's':  # string
         return '"%s"' % value.replace('\\', '\\\\').replace('"', '\\"')
     elif datatype in ('n', 'd'):  # number or date
@@ -108,6 +120,7 @@ class HealthDataExtractor(object):
         directory as the input export.xml. Reports each file written
         unless verbose has been set to False.
     """
+
     def __init__(self, path, verbose=VERBOSE):
         self.in_path = path
         self.verbose = verbose
@@ -168,13 +181,16 @@ class HealthDataExtractor(object):
         self.handles = {}
         self.paths = []
         for kind in (list(self.record_types) + list(self.other_types)):
-            path = os.path.join(self.directory, '%s.csv' % abbreviate(kind))
-            f = open(path, 'w')
-            headerType = (kind if kind in ('Workout', 'ActivitySummary')
-                          else 'Record')
-            f.write(','.join(FIELDS[headerType].keys()) + '\n')
-            self.handles[kind] = f
-            self.report('Opening %s for writing' % path)
+            # Only open what I need: Heart Rate
+            if kind == "HeartRate":
+                path = os.path.join(self.directory, user + '%s.csv' %
+                                    abbreviate(kind))
+                f = open(path, 'w')
+                headerType = (kind if kind in ('Workout', 'ActivitySummary')
+                              else 'Record')
+                f.write(','.join(FIELDS[headerType].keys()) + '\n')
+                self.handles[kind] = f
+                self.report('Opening %s for writing' % path)
 
     def abbreviate_types(self):
         """
@@ -191,10 +207,12 @@ class HealthDataExtractor(object):
             if node.tag in kinds:
                 attributes = node.attrib
                 kind = attributes['type'] if node.tag == 'Record' else node.tag
-                values = [format_value(attributes.get(field), datatype)
-                          for (field, datatype) in FIELDS[node.tag].items()]
-                line = ','.join(values) + '\n'
-                self.handles[kind].write(line)
+                # Only write what I need: Heart Rate
+                if kind == "HeartRate":
+                    values = [format_value(attributes.get(field), datatype)
+                              for (field, datatype) in FIELDS[node.tag].items()]
+                    line = ','.join(values) + '\n'
+                    self.handles[kind].write(line)
 
     def close_files(self):
         for (kind, f) in self.handles.items():
@@ -212,11 +230,53 @@ class HealthDataExtractor(object):
         print('Record types:\n%s\n' % format_freqs(self.record_types))
 
 
+def parseHealthData(users):
+    for user in users:
+        f = user + ".xml"
+        data = HealthDataExtractor(f)
+        # data.report_stats()
+        print("Extracting data from " + user + "'s file")
+        data.extract()
+
+
+def parseCalenderData(users):
+        for user in users:
+            convert = Convert()
+            convert.CSV_FILE_LOCATION =user + 'Cal.csv'
+            convert.SAVE_LOCATION = user + '.ics'
+            convert.read_ical(convert.SAVE_LOCATION)
+            convert.make_csv()
+            convert.save_csv(convert.CSV_FILE_LOCATION)
+    
+    
+    # https://stackoverflow.com/questions/3408097/parsing-files-ics-icalendar-using-python
+   #for user in users:
+
+      #  f = user + ".ics"
+       # g = open(f, 'rb')
+       # gcal = Calendar.from_ical(g.read())
+       # for component in gcal.walk():
+       #     if component.name == "VEVENT":
+       #         print(component.get('summary'))
+       #         start = component.get('dtstart')
+       #         end = component.get('dtend')
+       #         stamp = component.get('dtstamp')
+       #         print(start.dt)
+       #         print(end.dt)
+       #         print(stamp.dt)
+#
+       #         # TODO open and write to .csv
+       # g.close()
+
+
 if __name__ == '__main__':
-    #if len(sys.argv) != 2:
+    # if len(sys.argv) != 2:
     #    print('USAGE: python main.py /path/to/export.xml',
-     #         file=sys.stderr)
-     #   sys.exit(1)
-    data = HealthDataExtractor("cameron_keene_health_data.xml")#enter file to be parsed within quotes here
-    data.report_stats()
-    data.extract()
+    #         file=sys.stderr)
+    #   sys.exit(1)
+    # enter file to be parsed within quotes here
+    users = ["Charbo"]
+    # parseHealthData(users)
+    parseCalenderData(users)
+
+
