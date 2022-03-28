@@ -21,7 +21,7 @@ from csv_ical import Convert
 
 __version__ = '1.3'
 
-# Randomly generate a float for deviceID, in case it is missing
+# Randomly generate a float for deviceID
 RAND = str(random.random())
 
 RECORD_FIELDS = OrderedDict((
@@ -74,6 +74,8 @@ ABBREVIATE = True
 VERBOSE = False
 
 1
+
+
 def format_freqs(counter):
     """
     Format a counter object for display.
@@ -91,11 +93,13 @@ def format_value(value, datatype):
         'n' for number
         'd' for datetime
     """
-    if value is None:
+    if value is None or datatype == 's':  # DeviceID should be a randomized float
         return RAND
-    elif datatype == 's':  # string
-        return '"%s"' % value.replace('\\', '\\\\').replace('"', '\\"')
-    elif datatype in ('n', 'd'):  # number or date
+    # elif datatype == 's':  # string
+    #    return '"%s"' % value.replace('\\', '\\\\').replace('"', '\\"')
+    elif datatype == 'n':  # number (round to nearest int and convert back to string)
+        return str(round(float(value)))
+    elif datatype == 'd':  # date
         return value
     else:
         raise KeyError('Unexpected format value: %s' % datatype)
@@ -177,7 +181,7 @@ class HealthDataExtractor(object):
         self.count_record_types()
         self.count_tags_and_fields()
 
-    def open_for_writing(self):
+    def open_for_writing(self, user):
         self.handles = {}
         self.paths = []
         for kind in (list(self.record_types) + list(self.other_types)):
@@ -188,7 +192,7 @@ class HealthDataExtractor(object):
                 f = open(path, 'w')
                 headerType = (kind if kind in ('Workout', 'ActivitySummary')
                               else 'Record')
-                f.write(','.join(FIELDS[headerType].keys()) + '\n')
+                f.write('username,' + ','.join(FIELDS[headerType].keys()) + '\n')
                 self.handles[kind] = f
                 self.report('Opening %s for writing' % path)
 
@@ -201,7 +205,7 @@ class HealthDataExtractor(object):
                 if 'type' in node.attrib:
                     node.attrib['type'] = abbreviate(node.attrib['type'])
 
-    def write_records(self):
+    def write_records(self,user):
         kinds = FIELDS.keys()
         for node in self.nodes:
             if node.tag in kinds:
@@ -211,7 +215,7 @@ class HealthDataExtractor(object):
                 if kind == "HeartRate":
                     values = [format_value(attributes.get(field), datatype)
                               for (field, datatype) in FIELDS[node.tag].items()]
-                    line = ','.join(values) + '\n'
+                    line = user + ',' + ','.join(values) + '\n' #Insert user name at beginning of line
                     self.handles[kind].write(line)
 
     def close_files(self):
@@ -219,9 +223,9 @@ class HealthDataExtractor(object):
             f.close()
             self.report('Written %s data.' % abbreviate(kind))
 
-    def extract(self):
-        self.open_for_writing()
-        self.write_records()
+    def extract(self, user):
+        self.open_for_writing(user)
+        self.write_records(user)
         self.close_files()
 
     def report_stats(self):
@@ -236,37 +240,36 @@ def parseHealthData(users):
         data = HealthDataExtractor(f)
         # data.report_stats()
         print("Extracting data from " + user + "'s file")
-        data.extract()
+        data.extract(user)
 
 
 def parseCalenderData(users):
-        for user in users:
-            convert = Convert()
-            convert.CSV_FILE_LOCATION =user + 'Cal.csv'
-            convert.SAVE_LOCATION = user + '.ics'
-            convert.read_ical(convert.SAVE_LOCATION)
-            convert.make_csv()
-            convert.save_csv(convert.CSV_FILE_LOCATION)
-    
-    
-    # https://stackoverflow.com/questions/3408097/parsing-files-ics-icalendar-using-python
-   #for user in users:
+    for user in users:
+        convert = Convert()
+        convert.CSV_FILE_LOCATION = user + 'Cal.csv'
+        convert.SAVE_LOCATION = user + '.ics'
+        convert.read_ical(convert.SAVE_LOCATION)
+        convert.make_csv()
+        convert.save_csv(convert.CSV_FILE_LOCATION)
 
-      #  f = user + ".ics"
-       # g = open(f, 'rb')
-       # gcal = Calendar.from_ical(g.read())
-       # for component in gcal.walk():
-       #     if component.name == "VEVENT":
-       #         print(component.get('summary'))
-       #         start = component.get('dtstart')
-       #         end = component.get('dtend')
-       #         stamp = component.get('dtstamp')
-       #         print(start.dt)
-       #         print(end.dt)
-       #         print(stamp.dt)
+    # https://stackoverflow.com/questions/3408097/parsing-files-ics-icalendar-using-python
+   # for user in users:
+
+  #  f = user + ".ics"
+   # g = open(f, 'rb')
+   # gcal = Calendar.from_ical(g.read())
+   # for component in gcal.walk():
+   #     if component.name == "VEVENT":
+   #         print(component.get('summary'))
+   #         start = component.get('dtstart')
+   #         end = component.get('dtend')
+   #         stamp = component.get('dtstamp')
+   #         print(start.dt)
+   #         print(end.dt)
+   #         print(stamp.dt)
 #
-       #         # TODO open and write to .csv
-       # g.close()
+   #         # TODO open and write to .csv
+   # g.close()
 
 
 if __name__ == '__main__':
@@ -275,8 +278,7 @@ if __name__ == '__main__':
     #         file=sys.stderr)
     #   sys.exit(1)
     # enter file to be parsed within quotes here
-    users = ["Charbo"]
-    # parseHealthData(users)
-    parseCalenderData(users)
-
-
+    users = ["Cam"]
+    parseHealthData(users)
+    # parseCalenderData(users)
+    print("Data extracted")
